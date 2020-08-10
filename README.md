@@ -20,3 +20,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+# YouTube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->

@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-* ⚡ I am a performance test engineer. I know nothing.  
+* ⚡ I am a performance engineer. I know nothing.  
 * ✍️ blogs at [QAInsights](https://qainsights.com)  
 * 📺 my [YouTube channel](https://www.youtube.com/qainsights)  
 * 👨‍🏫 at [Udemy](https://www.udemy.com/user/naveenkumarnamachivayam/)  

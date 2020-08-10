@@ -7,14 +7,15 @@
 * 🌱 currently learning Kubernetes, Docker, Rancher, Linux, and DevOps  
 * 🛠 I made [PerfTractor](https://perftractor.xyz)
 * 🎮 XBox  
-* 💬 ask me anything about performance testing/engineering
+* 💬 ask me anything about performance testing/engineering in [QAInsights Community](https://community.qainsights.com/)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="qainsights.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="qainsights.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][community]
+[<img align="left" alt="qainsights | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="qainsights | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="qainsights | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -57,3 +58,4 @@
 [twitter]: https://twitter.com/qainsights
 [youtube]: https://youtube.com/qainsights
 [linkedin]: https://linkedin.com/in/naveenkumarn
+[community]: https://community.qainsights.com/

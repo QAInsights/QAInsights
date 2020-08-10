@@ -8,7 +8,8 @@
 * 🛠 I made [PerfTractor](https://perftractor.xyz)
 * 🎮 XBox  
 * 💬 ask me anything about performance testing/engineering
-* 📇 Connect me at [LinkedIn](https://www.linkedin.com/in/naveenkumarn/) | [Twitter](https://twitter.com/qainsights) | [Personal Website](https://naveenkumarn.in)  
+
+---
 
 ### Connect with me:
 
@@ -16,8 +17,6 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ---
 

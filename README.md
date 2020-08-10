@@ -9,14 +9,15 @@
 * 🎮 XBox  
 * 💬 ask me anything about performance testing/engineering
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
 
 ---
 
@@ -28,6 +29,8 @@
 - செம்புலப் பெயல்நீரார் - குறிஞ்சித்திணைப் பாடல்  
 </p>
 
+---
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/)
@@ -36,6 +39,8 @@
 - [How I successfully cleared Micro Focus LoadRunner Certification?](https://qainsights.com/how-i-successfully-cleared-micro-focus-loadrunner-certification/)
 - [Deep-dive into Cloudflare’s Speed Test](https://qainsights.com/deep-dive-into-cloudflares-speed-test/)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 # YouTube
 <!-- YOUTUBE:START -->

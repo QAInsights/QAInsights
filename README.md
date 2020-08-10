@@ -32,7 +32,7 @@
 
 ---
 
-# Blog posts
+# ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/)
 - [How I successfully cleared Certified Kubernetes Application Developer CKAD exam in 5 weeks?](https://qainsights.com/how-i-successfully-cleared-certified-kubernetes-application-developer-ckad-exam-in-5-weeks/)
@@ -43,7 +43,7 @@
 
 ---
 
-# YouTube
+# 📺 YouTube
 <!-- YOUTUBE:START -->
 - [S1E9 Learn JMeter Series - HTTP Cookie Manager](https://www.youtube.com/watch?v=CbAUpTSwwrg)
 - [How I successfully cleared Micro Focus LoadRunner Certification?](https://www.youtube.com/watch?v=6ZYszrKfaCg)

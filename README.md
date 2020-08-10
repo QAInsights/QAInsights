@@ -23,4 +23,9 @@
 
 # YouTube
 <!-- YOUTUBE:START -->
+- [S1E9 Learn JMeter Series - HTTP Cookie Manager](https://www.youtube.com/watch?v=CbAUpTSwwrg)
+- [How I successfully cleared Micro Focus LoadRunner Certification?](https://www.youtube.com/watch?v=6ZYszrKfaCg)
+- [S1E8 Learn JMeter Series - HTTP Cache Manager](https://www.youtube.com/watch?v=_KBHytyqXlk)
+- [S1E7 Learn JMeter Series - HTTP Header Manager](https://www.youtube.com/watch?v=2zvfnTaMeuM)
+- [S1E6 Learn JMeter Series - HTTP Request Defaults](https://www.youtube.com/watch?v=BvbspEX4IXA)
 <!-- YOUTUBE:END -->

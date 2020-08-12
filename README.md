@@ -54,6 +54,8 @@
 
 ---
 
+![NaveenKumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qainsights&show_icons=true)
+
 [website]: https://qainsights.com
 [twitter]: https://twitter.com/qainsights
 [youtube]: https://youtube.com/qainsights

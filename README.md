@@ -3,11 +3,12 @@
 * ⚡ I am a performance engineer. I break stuffs. I know nothing.  
 * ✍️ blogs at [QAInsights](https://qainsights.com)  
 * 📺 my [YouTube channel](https://qain.si/youtube)  
-* 👨‍🏫 at [Udemy](https://qain.si/devweb)  
+* 👨‍🏫 at Udemy [Performance Testing using DevWeb](https://qain.si/devweb)  
 * 🌱 currently learning Kubernetes, Docker, Rancher, Linux, and DevOps  
 * 🛠 I made [PerfTractor](https://perftractor.xyz)
 * 🎮 XBox  
 * 💬 ask me anything about performance testing/engineering in [QAInsights Community](https://community.qainsights.com/)
+* 📘 [Earn Cash by Performance Testing](https://amzn.to/3g0rOPF) | [Excel in MS Excel](https://amzn.to/3atvJDL) | [The Complete Guide on HP LoadRunner Web Controller](https://amzn.to/3aviYZ4)
 
 ### Connect with me:
 

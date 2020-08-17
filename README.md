@@ -2,8 +2,8 @@
 
 * ⚡ I am a performance engineer. I break stuffs. I know nothing.  
 * ✍️ blogs at [QAInsights](https://qainsights.com)  
-* 📺 my [YouTube channel](https://www.youtube.com/qainsights)  
-* 👨‍🏫 at [Udemy](https://www.udemy.com/user/naveenkumarnamachivayam/)  
+* 📺 my [YouTube channel](https://qain.si/youtube)  
+* 👨‍🏫 at [Udemy](https://qain.si/devweb)  
 * 🌱 currently learning Kubernetes, Docker, Rancher, Linux, and DevOps  
 * 🛠 I made [PerfTractor](https://perftractor.xyz)
 * 🎮 XBox  

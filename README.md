@@ -35,11 +35,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Load Testing using Netling](https://qainsights.com/load-testing-using-netling/)
 - [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/)
 - [How I successfully cleared Certified Kubernetes Application Developer CKAD exam in 5 weeks?](https://qainsights.com/how-i-successfully-cleared-certified-kubernetes-application-developer-ckad-exam-in-5-weeks/)
 - [What’s new in Micro Focus LoadRunner 2020 Service Pack 2](https://qainsights.com/whats-new-in-micro-focus-loadrunner-2020-service-pack-2/)
 - [How I successfully cleared Micro Focus LoadRunner Certification?](https://qainsights.com/how-i-successfully-cleared-micro-focus-loadrunner-certification/)
-- [Deep-dive into Cloudflare’s Speed Test](https://qainsights.com/deep-dive-into-cloudflares-speed-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

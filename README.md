@@ -46,11 +46,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Control your test data in JMeter using Redis Data Set Plugin](https://www.youtube.com/watch?v=h5UYbownZms)
 - [Run JMeter Tests in k3s Civo Kube100](https://www.youtube.com/watch?v=KJmHIzSQI1Y)
 - [S1E9 Learn JMeter Series - HTTP Cookie Manager](https://www.youtube.com/watch?v=CbAUpTSwwrg)
 - [How I successfully cleared Micro Focus LoadRunner Certification?](https://www.youtube.com/watch?v=6ZYszrKfaCg)
 - [S1E8 Learn JMeter Series - HTTP Cache Manager](https://www.youtube.com/watch?v=_KBHytyqXlk)
-- [S1E7 Learn JMeter Series - HTTP Header Manager](https://www.youtube.com/watch?v=2zvfnTaMeuM)
 <!-- YOUTUBE:END -->
 
 ---

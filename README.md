@@ -35,6 +35,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with GitHub CLI](https://qainsights.com/getting-started-with-github-cli/)
+- [How to install Java 15 in Windows?](https://qainsights.com/how-to-install-java-15-in-windows/)
+- [Load Testing using Netling](https://qainsights.com/load-testing-using-netling/)
+- [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/)
+- [How I successfully cleared Certified Kubernetes Application Developer CKAD exam in 5 weeks?](https://qainsights.com/how-i-successfully-cleared-certified-kubernetes-application-developer-ckad-exam-in-5-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -35,11 +35,6 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to install Java 15 in Windows?](https://qainsights.com/how-to-install-java-15-in-windows/)
-- [Load Testing using Netling](https://qainsights.com/load-testing-using-netling/)
-- [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/)
-- [How I successfully cleared Certified Kubernetes Application Developer CKAD exam in 5 weeks?](https://qainsights.com/how-i-successfully-cleared-certified-kubernetes-application-developer-ckad-exam-in-5-weeks/)
-- [What’s new in Micro Focus LoadRunner 2020 Service Pack 2](https://qainsights.com/whats-new-in-micro-focus-loadrunner-2020-service-pack-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

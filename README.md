@@ -40,11 +40,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Radar – Why you should sign up?](https://qainsights.com/cloudflare-radar-why-you-should-sign-up/)
 - [Must ask Performance Engineering Questions](https://qainsights.com/performance-engineering-questions/)
 - [What’s new in LoadRunner Professional 2020 SP 3?](https://qainsights.com/whats-new-in-loadrunner-professional-2020-sp-3/)
 - [Getting Started with GitHub CLI](https://qainsights.com/getting-started-with-github-cli/)
 - [How to install Java 15 in Windows?](https://qainsights.com/how-to-install-java-15-in-windows/)
-- [Load Testing using Netling](https://qainsights.com/load-testing-using-netling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

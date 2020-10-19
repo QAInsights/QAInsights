@@ -40,11 +40,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [?](https://qainsights.com/%f0%9f%92%9c/)
 - [JEval – Evaluate your JMeter Test Plan](https://qainsights.com/jeval-evaluate-your-jmeter-test-plan/)
 - [Cloudflare Radar – Why you should sign up?](https://qainsights.com/cloudflare-radar-why-you-should-sign-up/)
 - [Must ask Performance Engineering Questions](https://qainsights.com/performance-engineering-questions/)
 - [What’s new in LoadRunner Professional 2020 SP 3?](https://qainsights.com/whats-new-in-loadrunner-professional-2020-sp-3/)
+- [Getting Started with GitHub CLI](https://qainsights.com/getting-started-with-github-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

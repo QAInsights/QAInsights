@@ -51,11 +51,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S2E2 Learn JMeter Series -  Random Variable](https://www.youtube.com/watch?v=rriLK0wpbC0)
 - [S2E1 Learn JMeter Series - CSV Data Set Config](https://www.youtube.com/watch?v=7pljGt-kDv0)
 - [Distributed Load Testing on AWS - Run JMeter Tests](https://www.youtube.com/watch?v=AMwSWhdLFQc)
 - [S1E10 Learn JMeter Series - HTTP Authorization Manager](https://www.youtube.com/watch?v=tuxx6L4UhCU)
 - [Control your test data runtime using HTTP Simple Table Server in JMeter](https://www.youtube.com/watch?v=5w_9QZseuIk)
-- [Control your test data in JMeter using Redis Data Set Plugin](https://www.youtube.com/watch?v=h5UYbownZms)
 <!-- YOUTUBE:END -->
 
 ---

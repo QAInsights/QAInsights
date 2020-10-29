@@ -1,4 +1,4 @@
-# Hello there! 👋
+# 👋 Hello there! 
 ![](https://komarev.com/ghpvc/?username=QAInsights&color=brightgreen)  
  ⚡ I am a performance engineer. I break stuffs. I know nothing.  
  ✍️ blogs at [QAInsights](https://qainsights.com)  
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-# Connect with me:
+# 📪 Connect with me
 
 [<img align="left" alt="qainsights.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="qainsights.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][opensourcewebsite]
@@ -71,6 +71,7 @@
 <!-- YOUTUBE:END -->
 
 ---
+# 🌟 GitHub Stats
 
 ![NaveenKumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qainsights&show_icons=true&theme=dracula)
 

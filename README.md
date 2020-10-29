@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S2E6 Learn JMeter Series - JSON Extractor](https://www.youtube.com/watch?v=VhNyO1tBVzs)
 - [Auto Correlation in JMeter Part 2](https://www.youtube.com/watch?v=bQQEty7rTvo)
 - [S2E5 Learn JMeter Series - Regular Expression Extractor](https://www.youtube.com/watch?v=ngguEWtjM9o)
 - [S2E4 Learn JMeter Series - HTML Link Parser and HTTP URL Re-writing Modifier](https://www.youtube.com/watch?v=Q9bTKALheoY)
 - [S2E3 Learn JMeter Series - DNS Cache Manager](https://www.youtube.com/watch?v=b6E0nzPItOU)
-- [Releasing JEval 1.0 -  Linter for JMeter](https://www.youtube.com/watch?v=ChCKxQk5WS8)
 <!-- YOUTUBE:END -->
 
 ---

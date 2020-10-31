@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S2E7 Learn JMeter Series - CSS Selector Extractor](https://www.youtube.com/watch?v=k3ld4GVepWk)
 - [S2E7 Learn JMeter Series - JSON JMESPath Extractor](https://www.youtube.com/watch?v=4YH3_0C5iAA)
 - [S2E6 Learn JMeter Series - JSON Extractor](https://www.youtube.com/watch?v=VhNyO1tBVzs)
 - [Auto Correlation in JMeter Part 2](https://www.youtube.com/watch?v=bQQEty7rTvo)
 - [S2E5 Learn JMeter Series - Regular Expression Extractor](https://www.youtube.com/watch?v=ngguEWtjM9o)
-- [S2E4 Learn JMeter Series - HTML Link Parser and HTTP URL Re-writing Modifier](https://www.youtube.com/watch?v=Q9bTKALheoY)
 <!-- YOUTUBE:END -->
 
 ---

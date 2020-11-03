@@ -75,6 +75,9 @@
 
 ![NaveenKumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qainsights&show_icons=true&theme=dracula)
 
+[![GitHub metrics](https://metrics.lecoq.io/qainsights?pagespeed=1&languages=1&followup=1&isocalendar=1)](https://github.com/lowlighter/metrics)
+
+
 [website]: https://qainsights.com
 [twitter]: https://twitter.com/qainsights
 [youtube]: https://youtube.com/qainsights

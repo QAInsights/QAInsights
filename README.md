@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [API Testing in DevWeb using Swagger](https://qainsights.com/api-testing-in-devweb-using-swagger/)
 - [Performance Testing Certifications](https://qainsights.com/performance-testing-certifications/)
 - [JEval – Evaluate your JMeter Test Plan](https://qainsights.com/jeval-evaluate-your-jmeter-test-plan/)
 - [Cloudflare Radar – Why you should sign up?](https://qainsights.com/cloudflare-radar-why-you-should-sign-up/)
 - [Must ask Performance Engineering Questions](https://qainsights.com/performance-engineering-questions/)
-- [What’s new in LoadRunner Professional 2020 SP 3?](https://qainsights.com/whats-new-in-loadrunner-professional-2020-sp-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S3E1 Learn JMeter Series - Inter Thread Communication](https://www.youtube.com/watch?v=yqOBDF8hXZM)
 - [Running JMeter Tests in Neocortix](https://www.youtube.com/watch?v=WAICn4DNxdU)
 - [S2E10 Learn JMeter Series - XPath2 Extractor](https://www.youtube.com/watch?v=DWu_kVLZbac)
 - [S2E9 Learn JMeter Series - Boundary Extractor](https://www.youtube.com/watch?v=_KxVjJFohjg)
 - [S2E8 Learn JMeter Series - CSS Selector Extractor](https://www.youtube.com/watch?v=k3ld4GVepWk)
-- [S2E7 Learn JMeter Series - JSON JMESPath Extractor](https://www.youtube.com/watch?v=4YH3_0C5iAA)
 <!-- YOUTUBE:END -->
 
 ---

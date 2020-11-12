@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S3E3 Learn JMeter Series - Constant Throughput Timer](https://www.youtube.com/watch?v=8Wb8KtylY5M)
 - [S3E2 Learn JMeter Series - Uniform Random Timer](https://www.youtube.com/watch?v=mqGl98yYJ1U)
 - [S3E1 Learn JMeter Series - Inter Thread Communication](https://www.youtube.com/watch?v=yqOBDF8hXZM)
 - [Running JMeter Tests in Neocortix](https://www.youtube.com/watch?v=WAICn4DNxdU)
 - [S2E10 Learn JMeter Series - XPath2 Extractor](https://www.youtube.com/watch?v=DWu_kVLZbac)
-- [S2E9 Learn JMeter Series - Boundary Extractor](https://www.youtube.com/watch?v=_KxVjJFohjg)
 <!-- YOUTUBE:END -->
 
 ---

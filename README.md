@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S3E7 Learn JMeter Series - If Controller](https://www.youtube.com/watch?v=K-P72wPUc_0)
 - [S3E5 Learn JMeter Series - Listeners in JMeter](https://www.youtube.com/watch?v=n8iGDgSDbg0)
 - [S3E5 Learn JMeter Series - Synchronizing Timer](https://www.youtube.com/watch?v=DBaC8t3FLtU)
 - [S3E4 Learn JMeter Series - Precise Throughput Timer](https://www.youtube.com/watch?v=5ovDI8Hanuc)
 - [S3E3 Learn JMeter Series - Constant Throughput Timer](https://www.youtube.com/watch?v=8Wb8KtylY5M)
-- [S3E2 Learn JMeter Series - Uniform Random Timer](https://www.youtube.com/watch?v=mqGl98yYJ1U)
 <!-- YOUTUBE:END -->
 
 ---

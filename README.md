@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S3E10 Learn JMeter Series - Throughput Controller](https://www.youtube.com/watch?v=Lp_Shuf5tGE)
 - [S3E9 Learn JMeter Series - Loop and Transaction Controller](https://www.youtube.com/watch?v=_BfWJDuKs5Y)
 - [S3E8 Learn JMeter Series - While Controller](https://www.youtube.com/watch?v=h1kQ_g6G1dM)
 - [S3E7 Learn JMeter Series - If Controller](https://www.youtube.com/watch?v=K-P72wPUc_0)
 - [S3E6 Learn JMeter Series - Listeners in JMeter](https://www.youtube.com/watch?v=n8iGDgSDbg0)
-- [S3E5 Learn JMeter Series - Synchronizing Timer](https://www.youtube.com/watch?v=DBaC8t3FLtU)
 <!-- YOUTUBE:END -->
 
 ---

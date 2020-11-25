@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S4E3 Learn JMeter Series - JSR223 Sampler](https://www.youtube.com/watch?v=t_fzrYrUcDs)
 - [S4E2 Learn JMeter Series - Module Controller](https://www.youtube.com/watch?v=PymKlxE_Ars)
 - [S4E1 Learn JMeter Series - Critical Section Controller](https://www.youtube.com/watch?v=N9QvzxIdoSU)
 - [S3E10 Learn JMeter Series - Throughput Controller](https://www.youtube.com/watch?v=Lp_Shuf5tGE)
 - [S3E9 Learn JMeter Series - Loop and Transaction Controller](https://www.youtube.com/watch?v=_BfWJDuKs5Y)
-- [S3E8 Learn JMeter Series - While Controller](https://www.youtube.com/watch?v=h1kQ_g6G1dM)
 <!-- YOUTUBE:END -->
 
 ---

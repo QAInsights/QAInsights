@@ -63,7 +63,7 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [S4E4 Learn JMeter Series - Control Structures](https://www.youtube.com/watch?v=hjCbNu5I1jQ)
+- [S4E6 Learn JMeter Series - Control Structures](https://www.youtube.com/watch?v=hjCbNu5I1jQ)
 - [S4E5 Learn JMeter Series - Groovy Operators](https://www.youtube.com/watch?v=u4ALEgzHmxA)
 - [S4E4 Learn JMeter Series - Say Hello to Groovy](https://www.youtube.com/watch?v=7x83UOrjOqM)
 - [S4E3 Learn JMeter Series - JSR223 Sampler](https://www.youtube.com/watch?v=t_fzrYrUcDs)

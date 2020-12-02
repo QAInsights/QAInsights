@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S4E8 Learn JMeter Series - JSR223 Variables Part II](https://www.youtube.com/watch?v=yyCnEfw8q7k)
 - [S4E7 Learn JMeter Series - JSR223 Variables Part 1](https://www.youtube.com/watch?v=0eXU3IjM2wk)
 - [S4E6 Learn JMeter Series - Control Structures](https://www.youtube.com/watch?v=hjCbNu5I1jQ)
 - [S4E5 Learn JMeter Series - Groovy Operators](https://www.youtube.com/watch?v=u4ALEgzHmxA)
 - [S4E4 Learn JMeter Series - Say Hello to Groovy](https://www.youtube.com/watch?v=7x83UOrjOqM)
-- [S4E3 Learn JMeter Series - JSR223 Sampler](https://www.youtube.com/watch?v=t_fzrYrUcDs)
 <!-- YOUTUBE:END -->
 
 ---

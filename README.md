@@ -3,7 +3,7 @@
  ⚡ I am a performance engineer. I break stuffs. I know nothing.  
  ✍️ blogs at [QAInsights](https://qainsights.com)  
  📺 my [YouTube channel](https://qain.si/youtube)  
- 👨‍🏫 at Udemy [Performance Testing using DevWeb](https://qain.si/devweb)  
+ 👨‍🏫 at Udemy [Performance Testing using DevWeb](https://qain.si/devweb) | [Learn JMeter](https://www.udemy.com/course/learn-apache-jmeter/?referralCode=A263186828774CB459B7)
  🌱 currently learning Kubernetes, Docker, Rancher, Linux, and DevOps  
  🛠 I made [PerfTractor](https://perftractor.xyz)  
  🎮 Xbox | Raspberry Pi  

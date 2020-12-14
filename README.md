@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday Performance Testing Experiment Results](https://qainsights.com/black-friday-performance-testing-experiment-results/)
 - [Deep-dive into GraphQL in JMeter](https://qainsights.com/deep-dive-into-graphql-in-jmeter/)
 - [Apache JMeter 5.4 Features](https://qainsights.com/apache-jmeter-5-4-features/)
 - [API Testing in DevWeb using Swagger](https://qainsights.com/api-testing-in-devweb-using-swagger/)
 - [Performance Testing Certifications](https://qainsights.com/performance-testing-certifications/)
-- [JEval – Evaluate your JMeter Test Plan](https://qainsights.com/jeval-evaluate-your-jmeter-test-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

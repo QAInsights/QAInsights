@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Distributed Load Testing on AWS using JMeter](https://www.youtube.com/watch?v=RyoRQNXxyDY)
 - [S5E3 Learn JMeter Series - Thread Group, Validate, and Smoke Load Testing](https://www.youtube.com/watch?v=WJLaR1ewck8)
 - [S5E2 Learn JMeter Series - Deep-dive into JMeter Plugins](https://www.youtube.com/watch?v=vK6Gtq3htN4)
 - [S5E1 Learn JMeter Series - Execution Order and Scoping Rules](https://www.youtube.com/watch?v=UGyx8E8sdTA)
 - [S4E10 Learn JMeter Series - File IO, JSON, Closure in Groovy](https://www.youtube.com/watch?v=ATeXsnerEj8)
-- [S4E9 Learn JMeter Series - JSR222 Variables Part III](https://www.youtube.com/watch?v=NyD5KHmFrSo)
 <!-- YOUTUBE:END -->
 
 ---

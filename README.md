@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S5E6 Learn JMeter Series - Reading Properties File in JMeter](https://www.youtube.com/watch?v=Po8Xap_2iI8)
 - [S5E5 Learn JMeter Series - Generate HTML Report in JMeter](https://www.youtube.com/watch?v=7RPbVIPNNhA)
 - [S5E4 Learn JMeter Series - Load Testing in CLI Mode in JMeter](https://www.youtube.com/watch?v=CpKCsmHiNE8)
 - [Distributed Load Testing on AWS using JMeter](https://www.youtube.com/watch?v=RyoRQNXxyDY)
 - [S5E3 Learn JMeter Series - Thread Group, Validate, and Smoke Load Testing](https://www.youtube.com/watch?v=WJLaR1ewck8)
-- [S5E2 Learn JMeter Series - Deep-dive into JMeter Plugins](https://www.youtube.com/watch?v=vK6Gtq3htN4)
 <!-- YOUTUBE:END -->
 
 ---

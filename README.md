@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Downloading and Installing JMeter](https://qainsights.com/downloading-and-installing-jmeter/)
 - [Introduction to Apache JMeter](https://qainsights.com/introduction-to-apache-jmeter/)
 - [JMeter Integration with InfluxDB Cloud](https://qainsights.com/jmeter-integration-with-influxdb-cloud/)
 - [JMeter Integration with InfluxDB 2.0](https://qainsights.com/jmeter-integration-with-influxdb-2-0/)
 - [JMeter Integration with InfluxDB and Grafana using Docker](https://qainsights.com/jmeter-integration-with-influxdb-and-grafana-using-docker/)
-- [Distributed Load Testing in JMeter using Raspberry Pi 400](https://qainsights.com/distributed-load-testing-in-jmeter-using-raspberry-pi-400/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

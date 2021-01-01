@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynatrace Backend Listener for JMeter](https://qainsights.com/dynatrace-backend-listener-for-jmeter/)
 - [JMeter Execution Order and Scoping Rules](https://qainsights.com/jmeter-execution-order-and-scoping-rules/)
 - [Introduction to JMeter Elements](https://qainsights.com/introduction-to-jmeter-elements/)
 - [Downloading and Installing JMeter](https://qainsights.com/downloading-and-installing-jmeter/)
 - [Introduction to Apache JMeter](https://qainsights.com/introduction-to-apache-jmeter/)
-- [JMeter Integration with InfluxDB Cloud](https://qainsights.com/jmeter-integration-with-influxdb-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

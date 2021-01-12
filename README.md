@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Servers Performance Monitoring in JMeter](https://qainsights.com/servers-performance-monitoring-in-jmeter/)
 - [Dynatrace Backend Listener for JMeter](https://qainsights.com/dynatrace-backend-listener-for-jmeter/)
 - [JMeter Execution Order and Scoping Rules](https://qainsights.com/jmeter-execution-order-and-scoping-rules/)
 - [Introduction to JMeter Elements](https://qainsights.com/introduction-to-jmeter-elements/)
 - [Downloading and Installing JMeter](https://qainsights.com/downloading-and-installing-jmeter/)
-- [Introduction to Apache JMeter](https://qainsights.com/introduction-to-apache-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [What's new in Micro Focus LoadRunner Professional 2021?](https://www.youtube.com/watch?v=PaF5mfS7bmk)
 - [S5E10 Learn JMeter Series - Servers Performance Monitoring](https://www.youtube.com/watch?v=apVCHwLZUyY)
 - [S5E9 Learn JMeter Series - Dynatrace Integration in JMeter](https://www.youtube.com/watch?v=4f2m7UmXwLE)
 - [S5E8 Learn JMeter Series - JMeter Integration with Jenkins](https://www.youtube.com/watch?v=-K8jdlIT1Ok)
 - [S5E7 Learn JMeter Series - InfluxDB and Grafana Integration](https://www.youtube.com/watch?v=tMrsNRV13wI)
-- [S5E6 Learn JMeter Series - Reading Properties File in JMeter](https://www.youtube.com/watch?v=Po8Xap_2iI8)
 <!-- YOUTUBE:END -->
 
 ---

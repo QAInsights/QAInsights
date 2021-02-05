@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Right Tail Outlier Detector in JMeter](https://qainsights.com/right-tail-outlier-detector-in-jmeter/)
 - [JMeter Result Analysis using Datasette](https://qainsights.com/jmeter-result-analysis-using-datasette/)
 - [JMeter Integration with Elastic](https://qainsights.com/jmeter-integration-with-elastic/)
 - [What’s new in MicroFocus LoadRunner Professional 2021?](https://qainsights.com/whats-new-in-microfocus-loadrunner-professional-2021/)
 - [Servers Performance Monitoring in JMeter](https://qainsights.com/servers-performance-monitoring-in-jmeter/)
-- [Dynatrace Backend Listener for JMeter](https://qainsights.com/dynatrace-backend-listener-for-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

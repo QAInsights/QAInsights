@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S6E3 Learn JMeter Series - Remote Distributed Testing in JMeter in AWS](https://www.youtube.com/watch?v=lORCJtspVJ4)
 - [S6E2 Learn JMeter Series - Remote Distributed Testing in JMeter](https://www.youtube.com/watch?v=th28Z-0rJIE)
 - [S6E1 Learn JMeter Series - Running JMeter on Docker](https://www.youtube.com/watch?v=Z4Oe8xz6ens)
 - [What's new in Micro Focus LoadRunner Professional 2021?](https://www.youtube.com/watch?v=PaF5mfS7bmk)
 - [S5E10 Learn JMeter Series - Servers Performance Monitoring](https://www.youtube.com/watch?v=apVCHwLZUyY)
-- [S5E9 Learn JMeter Series - Dynatrace Integration in JMeter](https://www.youtube.com/watch?v=4f2m7UmXwLE)
 <!-- YOUTUBE:END -->
 
 ---

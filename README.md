@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Run Mercury Web Tours App to learn performance and automation testing](https://www.youtube.com/watch?v=jwd_-CD0g34)
 - [S6E4 Learn JMeter Series - How to write your own groovy functions in JMeter?](https://www.youtube.com/watch?v=aJRk7vX8L9s)
 - [S6E3 Learn JMeter Series - Remote Distributed Testing in JMeter in AWS](https://www.youtube.com/watch?v=lORCJtspVJ4)
 - [S6E2 Learn JMeter Series - Remote Distributed Testing in JMeter](https://www.youtube.com/watch?v=th28Z-0rJIE)
 - [S6E1 Learn JMeter Series - Running JMeter on Docker](https://www.youtube.com/watch?v=Z4Oe8xz6ens)
-- [What's new in Micro Focus LoadRunner Professional 2021?](https://www.youtube.com/watch?v=PaF5mfS7bmk)
 <!-- YOUTUBE:END -->
 
 ---

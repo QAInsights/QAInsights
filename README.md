@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S1E2 Learn Locust Series - User Class](https://www.youtube.com/watch?v=XyrXzTExlaM)
 - [S6E7 Learn JMeter Series - ActiveMQ JMS Publisher & Subscriber and Point-to-Point](https://www.youtube.com/watch?v=4S8VpMeOVPc)
 - [S1E1 Learn Locust Series - Getting Started with Locust](https://www.youtube.com/watch?v=q45WwSOC42Q)
 - [S6E6 Learn JMeter Series - MQTT in JMeter](https://www.youtube.com/watch?v=OYRh_gciB-o)
 - [S6E5 Learn JMeter Series - FTP and SSH Sampler in JMeter](https://www.youtube.com/watch?v=L9iZgaRUpQA)
-- [Run Mercury Web Tours App to learn performance and automation testing](https://www.youtube.com/watch?v=jwd_-CD0g34)
 <!-- YOUTUBE:END -->
 
 ---

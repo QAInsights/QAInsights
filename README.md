@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S1E7 Learn Locust Series - Wait Time Functions](https://www.youtube.com/watch?v=QYzZHPkhoCE)
 - [S1E6 Learn Locust Series - Sequential Task Set](https://www.youtube.com/watch?v=QIDrl9Kje9w)
 - [S1E5 Learn Locust Series - TaskSet  Part 2](https://www.youtube.com/watch?v=_xEhwyGC-uc)
 - [S1E4 Learn Locust Series - TaskSet Class Part 1](https://www.youtube.com/watch?v=2XCH4jJNgAE)
 - [S1E3 Learn Locust Series - HttpUser Class](https://www.youtube.com/watch?v=TVUlMGnT3oM)
-- [S1E2 Learn Locust Series - User Class](https://www.youtube.com/watch?v=XyrXzTExlaM)
 <!-- YOUTUBE:END -->
 
 ---

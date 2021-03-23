@@ -63,8 +63,8 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [S1E9 Learn Locust Series - Command Line Options Part 2](https://www.youtube.com/watch?v=9StGL8IpKmo)
 - [S1E8 Learn Locust Series - Command Line Options Part 1](https://www.youtube.com/watch?v=Fh5a5c3UnkU)
+- [S1E9 Learn Locust Series - Command Line Options Part 2](https://www.youtube.com/watch?v=9StGL8IpKmo)
 - [S1E7 Learn Locust Series - Wait Time Functions](https://www.youtube.com/watch?v=QYzZHPkhoCE)
 - [S1E6 Learn Locust Series - Sequential Task Set](https://www.youtube.com/watch?v=QIDrl9Kje9w)
 - [S1E5 Learn Locust Series - TaskSet  Part 2](https://www.youtube.com/watch?v=_xEhwyGC-uc)

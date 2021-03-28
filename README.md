@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [S6E7 Learn JMeter Series - Designing an Open Workload Model](https://www.youtube.com/watch?v=cOa35WGKdOU)
+- [S6E9 Learn JMeter Series - Closed Workload Model](https://www.youtube.com/watch?v=FNHWZd-i2Lo)
+- [S6E8 Learn JMeter Series - Designing an Open Workload Model](https://www.youtube.com/watch?v=cOa35WGKdOU)
 - [S2E1 Learn Locust Series - Validate the Responses](https://www.youtube.com/watch?v=rps1_qi8GEI)
 - [S1E10 Learn Locust Series - On Start and Stop Methods](https://www.youtube.com/watch?v=mEIy2TkuKKM)
 - [S1E9 Learn Locust Series - Command Line Options Part 2](https://www.youtube.com/watch?v=9StGL8IpKmo)
-- [S1E8 Learn Locust Series - Command Line Options Part 1](https://www.youtube.com/watch?v=Fh5a5c3UnkU)
 <!-- YOUTUBE:END -->
 
 ---

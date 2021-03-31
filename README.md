@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S2E4 Learn Locust Series - Correlation](https://www.youtube.com/watch?v=16TfXmWtiCw)
 - [S2E3 Learn Locust Series - Data Parameterization](https://www.youtube.com/watch?v=xNDFqQ17YSU)
 - [S2E2 Learn Locust Series - Tag](https://www.youtube.com/watch?v=mHYqiU4uUdk)
 - [S6E9 Learn JMeter Series - Closed Workload Model](https://www.youtube.com/watch?v=FNHWZd-i2Lo)
 - [S6E8 Learn JMeter Series - Designing an Open Workload Model](https://www.youtube.com/watch?v=cOa35WGKdOU)
-- [S2E1 Learn Locust Series - Validate the Responses](https://www.youtube.com/watch?v=rps1_qi8GEI)
 <!-- YOUTUBE:END -->
 
 ---

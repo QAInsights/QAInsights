@@ -64,9 +64,9 @@
 # 📺 YouTube
 <!-- YOUTUBE:START -->
 - [S2E6 Learn Locust Series - Locust Configuration](https://www.youtube.com/watch?v=sspW-B4zzww)
-- [S2E5 Learn Locust Series - Logging](https://www.youtube.com/watch?v=ff6WpB6hr_4)
-- [S2E4 Learn Locust Series - Correlation](https://www.youtube.com/watch?v=16TfXmWtiCw)
-- [S2E3 Learn Locust Series - Data Parameterization](https://www.youtube.com/watch?v=xNDFqQ17YSU)
+- [S2E5 Learn Locust Series - Logging in Locust](https://www.youtube.com/watch?v=ff6WpB6hr_4)
+- [S2E4 Learn Locust Series - Correlation in Locust](https://www.youtube.com/watch?v=16TfXmWtiCw)
+- [S2E3 Learn Locust Series - Data Parameterization in Locust](https://www.youtube.com/watch?v=xNDFqQ17YSU)
 - [S2E2 Learn Locust Series - Tag](https://www.youtube.com/watch?v=mHYqiU4uUdk)
 <!-- YOUTUBE:END -->
 

@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S2E8 Learn Locust Series - Distributed Load Testing](https://www.youtube.com/watch?v=FDYD2inSSPY)
 - [S6E10 Learn JMeter Series - BeanShell Server](https://www.youtube.com/watch?v=fQ_ZYf_ks24)
 - [S2E7 Learn Locust Series - Events and EventHook](https://www.youtube.com/watch?v=Mx_479c7d_Q)
 - [S2E6 Learn Locust Series - Locust Configuration](https://www.youtube.com/watch?v=sspW-B4zzww)
 - [S2E5 Learn Locust Series - Logging in Locust](https://www.youtube.com/watch?v=ff6WpB6hr_4)
-- [S2E4 Learn Locust Series - Correlation in Locust](https://www.youtube.com/watch?v=16TfXmWtiCw)
 <!-- YOUTUBE:END -->
 
 ---

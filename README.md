@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S2E10 Learn Locust Series - Distributed Load Testing in Docker](https://www.youtube.com/watch?v=UYH8b1W6c9k)
 - [S2E9 Learn Locust Series - Locust in Docker](https://www.youtube.com/watch?v=S2fjd1Q8HiQ)
 - [S2E8 Learn Locust Series - Distributed Load Testing](https://www.youtube.com/watch?v=FDYD2inSSPY)
 - [S6E10 Learn JMeter Series - BeanShell Server](https://www.youtube.com/watch?v=fQ_ZYf_ks24)
 - [S2E7 Learn Locust Series - Events and EventHook](https://www.youtube.com/watch?v=Mx_479c7d_Q)
-- [S2E6 Learn Locust Series - Locust Configuration](https://www.youtube.com/watch?v=sspW-B4zzww)
 <!-- YOUTUBE:END -->
 
 ---

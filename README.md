@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Regular Expressions for Performance Engineers #3 - Extract Session IDs](https://www.youtube.com/watch?v=vUxI0wobAYc)
 - [Regular Expressions for Performance Engineers #2](https://www.youtube.com/watch?v=20VqwDOIrxQ)
 - [Regular Expressions for Performance Engineers #1](https://www.youtube.com/watch?v=9TaHParYnrc)
 - [S2E10 Learn Locust Series - Distributed Load Testing in Docker](https://www.youtube.com/watch?v=UYH8b1W6c9k)
 - [S2E9 Learn Locust Series - Locust in Docker](https://www.youtube.com/watch?v=S2fjd1Q8HiQ)
-- [S2E8 Learn Locust Series - Distributed Load Testing](https://www.youtube.com/watch?v=FDYD2inSSPY)
 <!-- YOUTUBE:END -->
 
 ---

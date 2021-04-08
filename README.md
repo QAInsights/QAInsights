@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Regular Expressions for Performance Engineers #6 - Extract UUIDs and Email](https://www.youtube.com/watch?v=ygfPN2dSwBo)
 - [Regular Expressions for Performance Engineers #5 - Extracting from Headers](https://www.youtube.com/watch?v=yZo4xIFTypY)
 - [Regular Expressions for Performance Engineers #4 - Why you should not use  (.+?) all the time?](https://www.youtube.com/watch?v=ldX1YTAMQ6c)
 - [Regular Expressions for Performance Engineers #3 - Extract Session IDs](https://www.youtube.com/watch?v=vUxI0wobAYc)
 - [Regular Expressions for Performance Engineers #2](https://www.youtube.com/watch?v=20VqwDOIrxQ)
-- [Regular Expressions for Performance Engineers #1](https://www.youtube.com/watch?v=9TaHParYnrc)
 <!-- YOUTUBE:END -->
 
 ---

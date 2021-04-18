@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn mitmproxy #1 - Record, Replay, Intercept, and Modify HTTP Requests](https://www.youtube.com/watch?v=igcsLKDfssw)
 - [Regular Expressions for Performance Engineers #10 - JMESPath](https://www.youtube.com/watch?v=V2LkmAQGhjI)
 - [Regular Expressions for Performance Engineers #9 - JSON Path](https://www.youtube.com/watch?v=-RAV2DFOTdk)
 - [Regular Expressions for Performance Engineers #8 - Matching URLs](https://www.youtube.com/watch?v=aSIaNl37Kao)
 - [Regular Expressions for Performance Engineers #7 - Numbers and String Match](https://www.youtube.com/watch?v=FlKFVCksAL8)
-- [Regular Expressions for Performance Engineers #6 - Extract UUIDs and Email](https://www.youtube.com/watch?v=ygfPN2dSwBo)
 <!-- YOUTUBE:END -->
 
 ---

@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance Testing in Kubernetes using Kangal](https://qainsights.com/performance-testing-in-kubernetes-using-kangal/)
 - [Getting Started with Goose](https://qainsights.com/getting-started-with-goose/)
 - [Deep-dive into Mockintosh – an Open Source Microservice Mocking](https://qainsights.com/deep-dive-into-mockintosh-an-open-source-microservice-mocking/)
 - [Jetty Load Generator](https://qainsights.com/jetty-load-generator/)
 - [Load Testing Shiny Apps](https://qainsights.com/load-testing-shiny-apps/)
-- [Right Tail Outlier Detector in JMeter](https://qainsights.com/right-tail-outlier-detector-in-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

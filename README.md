@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [curl for Performance Engineers](https://www.youtube.com/watch?v=kH84nvC8qOk)
 - [Testing Tool Series - Thunder Client](https://www.youtube.com/watch?v=dGpH3D_83b4)
 - [Learn mitmproxy #3 - Record and Replay HTTP Requests using mitmdump](https://www.youtube.com/watch?v=TUXw0-vy4P4)
 - [Learn mitmproxy #2 - Record, Replay, Intercept, and Modify HTTP Requests using mitmweb](https://www.youtube.com/watch?v=tnU_Rwi33oE)
 - [Learn mitmproxy #1 - Record, Replay, Intercept, and Modify HTTP Requests](https://www.youtube.com/watch?v=igcsLKDfssw)
-- [Regular Expressions for Performance Engineers #10 - JMESPath](https://www.youtube.com/watch?v=V2LkmAQGhjI)
 <!-- YOUTUBE:END -->
 
 ---

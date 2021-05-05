@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BroadAspect may assign this Agreement in whole or part.](https://qainsights.com/broadaspect-may-assign-this-agreement-in-whole-or-part/)
 - [Macedonia was the first country to sign such an agreement on 9 April 2001.](https://qainsights.com/macedonia-was-the-first-country-to-sign-such-an-agreement-on-9-april-2001/)
 - [This Agreement is solely between the Ceding Company and the Reinsurer.](https://qainsights.com/this-agreement-is-solely-between-the-ceding-company-and-the-reinsurer/)
 - [This kind of agreement is usually used in a corporate stock voting session.](https://qainsights.com/this-kind-of-agreement-is-usually-used-in-a-corporate-stock-voting-session/)
 - [Spousal support agreements or orders usually only last for a certain time.](https://qainsights.com/spousal-support-agreements-or-orders-usually-only-last-for-a-certain-time/)
-- [This Agreement shall renew upon payment of renewal by you.](https://qainsights.com/this-agreement-shall-renew-upon-payment-of-renewal-by-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

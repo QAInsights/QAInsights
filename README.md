@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First, you both enter into a New York Marital Separation Agreement.](https://qainsights.com/first-you-both-enter-into-a-new-york-marital-separation-agreement/)
+- [What’s new in LoadRunner Professional 2021 R1?](https://qainsights.com/whats-new-in-loadrunner-professional-2021-r1/)
 - [Performance Testing in Kubernetes using Kangal](https://qainsights.com/performance-testing-in-kubernetes-using-kangal/)
 - [Getting Started with Goose](https://qainsights.com/getting-started-with-goose/)
 - [Deep-dive into Mockintosh – an Open Source Microservice Mocking](https://qainsights.com/deep-dive-into-mockintosh-an-open-source-microservice-mocking/)
-- [Jetty Load Generator](https://qainsights.com/jetty-load-generator/)
-- [Load Testing Shiny Apps](https://qainsights.com/load-testing-shiny-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This Agreement is solely between the Ceding Company and the Reinsurer.](https://qainsights.com/this-agreement-is-solely-between-the-ceding-company-and-the-reinsurer/)
 - [This kind of agreement is usually used in a corporate stock voting session.](https://qainsights.com/this-kind-of-agreement-is-usually-used-in-a-corporate-stock-voting-session/)
 - [Spousal support agreements or orders usually only last for a certain time.](https://qainsights.com/spousal-support-agreements-or-orders-usually-only-last-for-a-certain-time/)
 - [This Agreement shall renew upon payment of renewal by you.](https://qainsights.com/this-agreement-shall-renew-upon-payment-of-renewal-by-you/)
 - [This agreement gives the agent exclusive rights to list and sell the property.](https://qainsights.com/this-agreement-gives-the-agent-exclusive-rights-to-list-and-sell-the-property/)
-- [Once this agreement is signed by Alice, the easement will terminate.](https://qainsights.com/once-this-agreement-is-signed-by-alice-the-easement-will-terminate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

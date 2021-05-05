@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BroadAspect may assign this Agreement in whole or part.](https://qainsights.com/broadaspect-may-assign-this-agreement-in-whole-or-part/)
-- [Macedonia was the first country to sign such an agreement on 9 April 2001.](https://qainsights.com/macedonia-was-the-first-country-to-sign-such-an-agreement-on-9-april-2001/)
-- [This Agreement is solely between the Ceding Company and the Reinsurer.](https://qainsights.com/this-agreement-is-solely-between-the-ceding-company-and-the-reinsurer/)
-- [This kind of agreement is usually used in a corporate stock voting session.](https://qainsights.com/this-kind-of-agreement-is-usually-used-in-a-corporate-stock-voting-session/)
-- [Spousal support agreements or orders usually only last for a certain time.](https://qainsights.com/spousal-support-agreements-or-orders-usually-only-last-for-a-certain-time/)
+- [What’s new in LoadRunner Professional 2021 R1?](https://qainsights.com/whats-new-in-loadrunner-professional-2021-r1/)
+- [Performance Testing in Kubernetes using Kangal](https://qainsights.com/performance-testing-in-kubernetes-using-kangal/)
+- [Getting Started with Goose](https://qainsights.com/getting-started-with-goose/)
+- [Deep-dive into Mockintosh – an Open Source Microservice Mocking](https://qainsights.com/deep-dive-into-mockintosh-an-open-source-microservice-mocking/)
+- [Jetty Load Generator](https://qainsights.com/jetty-load-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

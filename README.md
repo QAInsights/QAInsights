@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Chrome DevTools for Performance Engineers - Network](https://www.youtube.com/watch?v=SSXoZe33Htc)
 - [Getting Started with k6](https://www.youtube.com/watch?v=xJLABpaYllM)
 - [Fiddler Everywhere for Performance Engineers in 15 minutes](https://www.youtube.com/watch?v=wRUTPPWFpDo)
 - [Learn JMeter Series #61 - Neo4j Aura](https://www.youtube.com/watch?v=eHactCFJBhM)
 - [curl for Performance Engineers](https://www.youtube.com/watch?v=kH84nvC8qOk)
-- [Testing Tool Series - Thunder Client](https://www.youtube.com/watch?v=dGpH3D_83b4)
 <!-- YOUTUBE:END -->
 
 ---

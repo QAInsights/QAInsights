@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Chrome DevTools for Performance Engineers - Lighthouse](https://www.youtube.com/watch?v=Mff7H1c6-hY)
 - [Chrome DevTools for Performance Engineers - Performance](https://www.youtube.com/watch?v=LGT4Qe7v0So)
 - [Chrome DevTools for Performance Engineers - Network](https://www.youtube.com/watch?v=SSXoZe33Htc)
 - [Getting Started with k6](https://www.youtube.com/watch?v=xJLABpaYllM)
 - [Fiddler Everywhere for Performance Engineers in 15 minutes](https://www.youtube.com/watch?v=wRUTPPWFpDo)
-- [Learn JMeter Series #61 - Neo4j Aura](https://www.youtube.com/watch?v=eHactCFJBhM)
 <!-- YOUTUBE:END -->
 
 ---

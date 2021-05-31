@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Crash Course: API Testing with RapidAPI & GitHub Actions](https://qainsights.com/crash-course-api-testing-with-rapidapi-github-actions/)
 - [Distributed Load Testing in JMeter using VirtualBox](https://qainsights.com/distributed-load-testing-in-jmeter-using-virtualbox/)
 - [What’s new in LoadRunner Professional 2021 R1?](https://qainsights.com/whats-new-in-loadrunner-professional-2021-r1/)
 - [Performance Testing in Kubernetes using Kangal](https://qainsights.com/performance-testing-in-kubernetes-using-kangal/)
 - [Getting Started with Goose](https://qainsights.com/getting-started-with-goose/)
-- [Deep-dive into Mockintosh – an Open Source Microservice Mocking](https://qainsights.com/deep-dive-into-mockintosh-an-open-source-microservice-mocking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn JMeter Series #63 - Netdata + JMeter](https://www.youtube.com/watch?v=J4xp_px8MzU)
 - [Performance Monitoring in Netdata while running k6 tests](https://www.youtube.com/watch?v=-tH0pTBcaOo)
 - [Learn JMeter Series #62 - Distributed Load Testing using VirtualBox](https://www.youtube.com/watch?v=WSDMLAEksz4)
 - [Crash Course: API Testing with RapidAPI & GitHub Actions](https://www.youtube.com/watch?v=yCE7QvwG1-c)
 - [Chrome DevTools for Performance Engineers - Lighthouse](https://www.youtube.com/watch?v=Mff7H1c6-hY)
-- [Chrome DevTools for Performance Engineers - Performance](https://www.youtube.com/watch?v=LGT4Qe7v0So)
 <!-- YOUTUBE:END -->
 
 ---

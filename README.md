@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineering Series - E3 - Java, JDK, JRE, and JVM](https://www.youtube.com/watch?v=AvM0ulLKEX0)
 - [Performance Engineering Series - E2 - Tools](https://www.youtube.com/watch?v=Pkw493Yxcdc)
 - [Learn JMeter Series #64 - FCA Vs Timers](https://www.youtube.com/watch?v=miZGLaAq4UQ)
 - [Performance Engineering Series - E1 - BuggyApp](https://www.youtube.com/watch?v=7zezpvVP9UI)
 - [Learn JMeter Series #63 - Netdata + JMeter](https://www.youtube.com/watch?v=J4xp_px8MzU)
-- [Performance Monitoring in Netdata while running k6 tests](https://www.youtube.com/watch?v=-tH0pTBcaOo)
 <!-- YOUTUBE:END -->
 
 ---

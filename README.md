@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineering Series - E8 - Out of Memory Analysis using yCrash](https://www.youtube.com/watch?v=6gkCnhcohe4)
 - [Performance Engineering Series - E7 - Deep-dive into Out of Memory Error using Eclipse MAT](https://www.youtube.com/watch?v=eZIArJEkwjo)
 - [Performance Engineering Series - E6 - Metaspace and Survivor](https://www.youtube.com/watch?v=_RUFMDgchBA)
 - [Performance Engineering Series - E5 - How Garbage Collection works?](https://www.youtube.com/watch?v=BWGxFcgQcYc)
 - [Performance Engineering Series - E4 - JVM Memory](https://www.youtube.com/watch?v=qeGnZV5-P34)
-- [Performance Engineering Series - E3 - Java, JDK, JRE, and JVM](https://www.youtube.com/watch?v=AvM0ulLKEX0)
 <!-- YOUTUBE:END -->
 
 ---

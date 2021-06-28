@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn JMeter Series #66 - Running JMeter Tests using Maven](https://www.youtube.com/watch?v=s0lwZDIDwOo)
 - [Performance Engineering Series - E14 - Heavy IO Analysis](https://www.youtube.com/watch?v=tKshMWUUceg)
 - [Performance Engineering Series - E13 - Blocked Threads in Java](https://www.youtube.com/watch?v=3N1OBVOGPS0)
 - [Performance Engineering Series - E12 - StackOverflow Error Analysis](https://www.youtube.com/watch?v=ZloAZ2galNQ)
 - [Performance Engineering Series - E11 - Java APM - Glowroot](https://www.youtube.com/watch?v=ZdNU1dJGFKU)
-- [Learn JMeter Series #64  - Run JMeter Tests in GitHub Actions](https://www.youtube.com/watch?v=hiR0l--DgdE)
 <!-- YOUTUBE:END -->
 
 ---

@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineering Series - E16 - JStack, JInfo and JPS](https://www.youtube.com/watch?v=7bcjivvEAik)
 - [Performance Engineering Series - E15 - jmap & JCmd](https://www.youtube.com/watch?v=7978DNtWc5Y)
 - [Learn JMeter Series #66 - Running JMeter Tests using Maven](https://www.youtube.com/watch?v=s0lwZDIDwOo)
 - [Performance Engineering Series - E14 - Heavy IO Analysis](https://www.youtube.com/watch?v=tKshMWUUceg)
 - [Performance Engineering Series - E13 - Blocked Threads in Java](https://www.youtube.com/watch?v=3N1OBVOGPS0)
-- [Performance Engineering Series - E12 - StackOverflow Error Analysis](https://www.youtube.com/watch?v=ZloAZ2galNQ)
 <!-- YOUTUBE:END -->
 
 ---

@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Garbage Collection for JMeter](https://qainsights.com/the-best-garbage-collection-for-jmeter/)
 - [How to analyze top command like a pro?](https://qainsights.com/how-to-analyze-top-command-like-a-pro/)
 - [Crash Course: API Testing with RapidAPI & GitHub Actions](https://qainsights.com/crash-course-api-testing-with-rapidapi-github-actions/)
 - [Distributed Load Testing in JMeter using VirtualBox](https://qainsights.com/distributed-load-testing-in-jmeter-using-virtualbox/)
 - [What’s new in LoadRunner Professional 2021 R1?](https://qainsights.com/whats-new-in-loadrunner-professional-2021-r1/)
-- [Performance Testing in Kubernetes using Kangal](https://qainsights.com/performance-testing-in-kubernetes-using-kangal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

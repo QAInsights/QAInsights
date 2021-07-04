@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [APM and Observability Series - E1 - Signoz 🔥](https://www.youtube.com/watch?v=z5We0SBwq0U)
 - [Performance Engineering Series - E17 - JConsole and Java Mission Control](https://www.youtube.com/watch?v=Gk2RLO_uM20)
 - [Performance Engineering Series - E16 - JStack, JInfo and JPS](https://www.youtube.com/watch?v=7bcjivvEAik)
 - [Performance Engineering Series - E15 - jmap & JCmd](https://www.youtube.com/watch?v=7978DNtWc5Y)
 - [Learn JMeter Series #66 - Running JMeter Tests using Maven](https://www.youtube.com/watch?v=s0lwZDIDwOo)
-- [Performance Engineering Series - E14 - Heavy IO Analysis](https://www.youtube.com/watch?v=tKshMWUUceg)
 <!-- YOUTUBE:END -->
 
 ---

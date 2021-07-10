@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [APM and Observability Series - E2 - Jaeger](https://www.youtube.com/watch?v=YCUsFNyaXwQ)
 - [GitHub Copilot Review for Locust and k6](https://www.youtube.com/watch?v=FfRzdkyU2OA)
 - [Performance Engineering Series - E19 Flame Graphs in yCrash](https://www.youtube.com/watch?v=IuT5DxpcUXY)
 - [Performance Engineering Series - E18 - Deep-dive into yCrash](https://www.youtube.com/watch?v=W8D_wrYlcV8)
 - [APM and Observability Series - E1 - Signoz 🔥](https://www.youtube.com/watch?v=z5We0SBwq0U)
-- [Performance Engineering Series - E17 - JConsole and Java Mission Control](https://www.youtube.com/watch?v=Gk2RLO_uM20)
 <!-- YOUTUBE:END -->
 
 ---

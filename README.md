@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Statistics for Performance Engineers #1](https://www.youtube.com/watch?v=iYv1FUrcUrc)
 - [Are you up to speed? Take up this challenge.](https://www.youtube.com/watch?v=sHbZ5LLKU74)
 - [APM and Observability Series - E3 - Instana](https://www.youtube.com/watch?v=8nf5id13Qfc)
 - [Learn k6 Series - E3 - Data Parameterization in k6](https://www.youtube.com/watch?v=IDPa1NGfY5c)
 - [Learn k6 Series - E2 - Recording in k6 using browser extensions](https://www.youtube.com/watch?v=ZKYK5uyawfM)
-- [APM and Observability Series - E2 - Jaeger](https://www.youtube.com/watch?v=YCUsFNyaXwQ)
 <!-- YOUTUBE:END -->
 
 ---

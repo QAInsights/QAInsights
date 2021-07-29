@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn k6 Series - E4 - HTTP Methods](https://www.youtube.com/watch?v=6qnItN7VPYo)
 - [Statistics for Performance Engineers #3 - Histogram Analysis](https://www.youtube.com/watch?v=cABz-3cGG0g)
 - [Statistics for Performance Engineers #2 - Outliers are good](https://www.youtube.com/watch?v=8k7_tU7FHBc)
 - [Statistics for Performance Engineers #1 - Mean, Median, Average, Mode, Percentile and more](https://www.youtube.com/watch?v=iYv1FUrcUrc)
 - [Are you up to speed? Take up this challenge.](https://www.youtube.com/watch?v=sHbZ5LLKU74)
-- [APM and Observability Series - E3 - Instana](https://www.youtube.com/watch?v=8nf5id13Qfc)
 <!-- YOUTUBE:END -->
 
 ---

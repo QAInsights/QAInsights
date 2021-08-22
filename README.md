@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineers Clubhouse - Evolution of Chaos Engineering](https://www.youtube.com/watch?v=DfWxRMIWSx8)
 - [Performance Engineers Clubhouse  - Realistic Load Testing](https://www.youtube.com/watch?v=-hBVZqNJ4_A)
 - [Performance Engineers Clubhouse  - Recording and Scripting Challenges](https://www.youtube.com/watch?v=LZrPs1VIVaQ)
 - [Learn k6 Series - E4 - HTTP Methods](https://www.youtube.com/watch?v=6qnItN7VPYo)
 - [Statistics for Performance Engineers #3 - Histogram Analysis](https://www.youtube.com/watch?v=cABz-3cGG0g)
-- [Statistics for Performance Engineers #2 - Outliers are good](https://www.youtube.com/watch?v=8k7_tU7FHBc)
 <!-- YOUTUBE:END -->
 
 ---

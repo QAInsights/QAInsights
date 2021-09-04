@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineers Clubhouse - Performance Test Report](https://www.youtube.com/watch?v=Eytq42Xgm_k)
 - [Performance Engineers Clubhouse - JMeter Productivity Hacks](https://www.youtube.com/watch?v=oxy1RYiqG2U)
 - [Performance Engineers Clubhouse - Evolution of Chaos Engineering](https://www.youtube.com/watch?v=DfWxRMIWSx8)
 - [Performance Engineers Clubhouse  - Realistic Load Testing](https://www.youtube.com/watch?v=-hBVZqNJ4_A)
 - [Performance Engineers Clubhouse  - Recording and Scripting Challenges](https://www.youtube.com/watch?v=LZrPs1VIVaQ)
-- [Learn k6 Series - E4 - HTTP Methods](https://www.youtube.com/watch?v=6qnItN7VPYo)
 <!-- YOUTUBE:END -->
 
 ---

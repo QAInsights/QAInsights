@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTPie for Performance Engineers](https://qainsights.com/httpie-for-performance-engineers/)
 - [HTTP Toolkit for Performance Engineers](https://qainsights.com/http-toolkit-for-performance-engineers/)
 - [Introduction to Speedscale](https://qainsights.com/introduction-to-speedscale/)
 - [What’s new in JMeter 5.5?](https://qainsights.com/whats-new-in-jmeter-5-5/)
 - [cURL Tips for Performance Engineers](https://qainsights.com/curl-tips-for-performance-engineers/)
-- [Data Parameterization in JMeter](https://qainsights.com/data-parameterization-in-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

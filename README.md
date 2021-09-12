@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Review – The Hitchhiking Guide To Load Testing Projects](https://qainsights.com/book-review-the-hitchhiking-guide-to-load-testing-projects/)
 - [HTTPie for Performance Engineers](https://qainsights.com/httpie-for-performance-engineers/)
 - [HTTP Toolkit for Performance Engineers](https://qainsights.com/http-toolkit-for-performance-engineers/)
 - [Introduction to Speedscale](https://qainsights.com/introduction-to-speedscale/)
 - [What’s new in JMeter 5.5?](https://qainsights.com/whats-new-in-jmeter-5-5/)
-- [cURL Tips for Performance Engineers](https://qainsights.com/curl-tips-for-performance-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Prompt for Performance Engineers](https://qainsights.com/http-prompt-for-performance-engineers/)
 - [Ten things you should learn before learning about performance testing](https://qainsights.com/ten-things-you-should-learn-before-learning-about-performance-testing/)
 - [Five things to know before learning JMeter](https://qainsights.com/five-things-to-know-before-learning-jmeter/)
 - [Book Review – The Hitchhiking Guide To Load Testing Projects](https://qainsights.com/book-review-the-hitchhiking-guide-to-load-testing-projects/)
 - [HTTPie for Performance Engineers](https://qainsights.com/httpie-for-performance-engineers/)
-- [HTTP Toolkit for Performance Engineers](https://qainsights.com/http-toolkit-for-performance-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

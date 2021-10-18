@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineers Clubhouse - #17 A Day in SREs Life](https://www.youtube.com/watch?v=RzLsgmnM45I)
 - [Performance Engineers Clubhouse - #16 Correlation Techniques](https://www.youtube.com/watch?v=RSoosQ9D0D0)
 - [Performance Engineers Clubhouse - #15 Global Last Mile Load Testing](https://www.youtube.com/watch?v=DkX6FwBU1vA)
 - [Performance Engineers Clubhouse - #14 The Hitchhiking Guide To Load Testing Projects](https://www.youtube.com/watch?v=f-UdI5s796w)
 - [Performance Engineers Clubhouse  - #13 Let Us Observe](https://www.youtube.com/watch?v=Ne4A3tvTpAk)
-- [Performance Engineers Clubhouse - Performance Test Report](https://www.youtube.com/watch?v=Eytq42Xgm_k)
 <!-- YOUTUBE:END -->
 
 ---

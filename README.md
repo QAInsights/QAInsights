@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ddosify : High-performance load testing tool](https://qainsights.com/ddosify-high-performance-load-testing-tool/)
 - [Get Certified in LoadView](https://qainsights.com/get-certified-in-loadview/)
 - [HTTP Prompt for Performance Engineers](https://qainsights.com/http-prompt-for-performance-engineers/)
 - [Ten things you should learn before learning about performance testing](https://qainsights.com/ten-things-you-should-learn-before-learning-about-performance-testing/)
 - [Five things to know before learning JMeter](https://qainsights.com/five-things-to-know-before-learning-jmeter/)
-- [Book Review – The Hitchhiking Guide To Load Testing Projects](https://qainsights.com/book-review-the-hitchhiking-guide-to-load-testing-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

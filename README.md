@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineers Clubhouse - #19 Collaboration in Performance Testing](https://www.youtube.com/watch?v=UMIukD7E1vI)
 - [Get Certified in the Gremlin Certified Chaos Engineering Professional](https://www.youtube.com/watch?v=t9zEMUwW3a4)
 - [Performance Engineers Clubhouse - #18 Performance Testing Certifications](https://www.youtube.com/watch?v=h_5hDlyVfcA)
 - [Performance Engineers Clubhouse - #17 A Day in SREs Life](https://www.youtube.com/watch?v=RzLsgmnM45I)
 - [Performance Engineers Clubhouse - #16 Correlation Techniques](https://www.youtube.com/watch?v=RSoosQ9D0D0)
-- [Performance Engineers Clubhouse - #15 Global Last Mile Load Testing](https://www.youtube.com/watch?v=DkX6FwBU1vA)
 <!-- YOUTUBE:END -->
 
 ---

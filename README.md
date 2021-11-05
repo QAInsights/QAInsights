@@ -11,10 +11,6 @@
  📘 [Earn Cash by Performance Testing](https://amzn.to/3g0rOPF) | [Excel in MS Excel](https://amzn.to/3atvJDL) | [The Complete Guide on HP LoadRunner Web Controller](https://amzn.to/3aviYZ4)
 
 <br/>
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/QAInsights?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 <br/>
 
@@ -41,11 +37,11 @@
 ---
 # 📜 
 <p style="text-align: left">
-யாயும் ஞாயும் யா... ராகியரோ  <br>
-எந்தையும் நுந்தையும் எம்முறைக் கேளிர்  <br>
-செம்புலப் பெயல் நீர் போல்  <br>
-அன்புடை நெஞ்சம்தாம் கலந்தனவே கலந்தனவே  <br><br>
-- செம்புலப் பெயல்நீரார் - குறிஞ்சித்திணைப் பாடல்  
+மண்ணானாலும் திருச்செந்தூரில் மண்ணாவேன்  <br/>
+ஒரு மரமானாலும் பழமுதிர்ச்சோலையில் மரமாவேன்  <br/>
+
+கருங்கல்லானாலும் தணிகைமலையில் கல்லாவேன்  <br/>
+பசும் புல்லானாலும் முருகன் அருளால் பூவானேன்-நான்  
 </p>
 
 ---

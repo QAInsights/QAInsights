@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Micro Focus Professional 2021 R2?](https://qainsights.com/whats-new-in-micro-focus-professional-2021-r2/)
 - [Ddosify : High-performance load testing tool](https://qainsights.com/ddosify-high-performance-load-testing-tool/)
 - [Get Certified in LoadView](https://qainsights.com/get-certified-in-loadview/)
 - [HTTP Prompt for Performance Engineers](https://qainsights.com/http-prompt-for-performance-engineers/)
 - [Ten things you should learn before learning about performance testing](https://qainsights.com/ten-things-you-should-learn-before-learning-about-performance-testing/)
-- [Five things to know before learning JMeter](https://qainsights.com/five-things-to-know-before-learning-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

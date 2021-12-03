@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Azure Load Testing](https://qainsights.com/getting-started-with-azure-load-testing/)
 - [Check Internet Speed with Apple Network Responsiveness](https://qainsights.com/check-internet-speed-with-apple-network-responsiveness/)
 - [Good Vs Bad Performance Test Engineer](https://qainsights.com/good-vs-bad-performance-test-engineer/)
 - [Interviewing &amp; Hiring Software Performance Test Professionals – Book Review](https://qainsights.com/interviewing-hiring-software-performance-test-professionals-book-review/)
 - [What’s new in Micro Focus Professional 2021 R2?](https://qainsights.com/whats-new-in-micro-focus-professional-2021-r2/)
-- [Ddosify : High-performance load testing tool](https://qainsights.com/ddosify-high-performance-load-testing-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

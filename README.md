@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday Performance Testing 2021](https://qainsights.com/black-friday-performance-testing-2021/)
 - [What’s new in Apache JMeter 5.4.2?](https://qainsights.com/whats-new-in-apache-jmeter-5-4-2/)
 - [Log4j Vulnerability – Important Note to Performance Engineers](https://qainsights.com/log4j-vulnerability-important-note-to-performance-engineers/)
 - [HTTPie for Web and Desktop](https://qainsights.com/httpie-for-web-and-desktop/)
 - [Getting Started with Azure Load Testing](https://qainsights.com/getting-started-with-azure-load-testing/)
-- [Check Internet Speed with Apple Network Responsiveness](https://qainsights.com/check-internet-speed-with-apple-network-responsiveness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

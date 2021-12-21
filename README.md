@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What to do if you cannot upgrade to JMeter 5.4.2 for Log4j Vulnerability?](https://qainsights.com/what-to-do-if-you-cannot-upgrade-to-jmeter-5-4-2-for-log4j-vulnerability/)
 - [Black Friday Performance Testing 2021](https://qainsights.com/black-friday-performance-testing-2021/)
 - [What’s new in Apache JMeter 5.4.2?](https://qainsights.com/whats-new-in-apache-jmeter-5-4-2/)
 - [Log4j Vulnerability – Important Note to Performance Engineers](https://qainsights.com/log4j-vulnerability-important-note-to-performance-engineers/)
 - [HTTPie for Web and Desktop](https://qainsights.com/httpie-for-web-and-desktop/)
-- [Getting Started with Azure Load Testing](https://qainsights.com/getting-started-with-azure-load-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

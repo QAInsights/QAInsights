@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Model Thread Group in JMeter](https://qainsights.com/open-model-thread-group-in-jmeter/)
 - [What’s new in Apache JMeter 5.4.3?](https://qainsights.com/apache-jmeter-5-4-3/)
 - [What to do if you cannot upgrade to JMeter 5.4.2 for Log4j Vulnerability?](https://qainsights.com/what-to-do-if-you-cannot-upgrade-to-jmeter-5-4-2-for-log4j-vulnerability/)
 - [Black Friday Performance Testing 2021](https://qainsights.com/black-friday-performance-testing-2021/)
 - [What’s new in Apache JMeter 5.4.2?](https://qainsights.com/whats-new-in-apache-jmeter-5-4-2/)
-- [Log4j Vulnerability – Important Note to Performance Engineers](https://qainsights.com/log4j-vulnerability-important-note-to-performance-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn JMeter Series #68 - Create JMeter Golden Image using Packer on AWS](https://www.youtube.com/watch?v=2KoEJScyO_4)
 - [Learn JMeter Series #67 - Deploy JMeter on AWS using Terraform](https://www.youtube.com/watch?v=FzOXaCN4WW0)
 - [Performance Engineers Clubhouse - #22 Azure Load Testing](https://www.youtube.com/watch?v=CH6x9y7rmBU)
 - [Performance Engineers Clubhouse - #21 Deep dive into Stress Testing](https://www.youtube.com/watch?v=wpbhBvKF61A)
 - [Performance Engineers Clubhouse - #20 Automating Performance Test Results and Analysis](https://www.youtube.com/watch?v=V12_64M_vUc)
-- [Performance Engineers Clubhouse - #19 Collaboration in Performance Testing](https://www.youtube.com/watch?v=UMIukD7E1vI)
 <!-- YOUTUBE:END -->
 
 ---

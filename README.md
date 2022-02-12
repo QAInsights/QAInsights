@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn k6 - E6 - Thresholds](https://www.youtube.com/watch?v=fT1t4mx5Ado)
 - [Learn k6 Series - E5 - Checks](https://www.youtube.com/watch?v=b44GPyTavpI)
 - [Learn JMeter Series #69 - Deploy Distributed Load Testing Infra for JMeter on AWS using Terraform](https://www.youtube.com/watch?v=60tzdeIvTQI)
 - [Learn JMeter Series #68 - Create JMeter Golden Image using Packer on AWS](https://www.youtube.com/watch?v=2KoEJScyO_4)
 - [Learn JMeter Series #67 - Deploy JMeter on AWS using Terraform](https://www.youtube.com/watch?v=FzOXaCN4WW0)
-- [Performance Engineers Clubhouse - #22 Azure Load Testing](https://www.youtube.com/watch?v=CH6x9y7rmBU)
 <!-- YOUTUBE:END -->
 
 ---

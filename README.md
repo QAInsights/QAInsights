@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn k6 Series - E7 - Scenarios and  Executors](https://www.youtube.com/watch?v=Qly25AWC_5c)
 - [Performance Engineers Clubhouse - #23 Interview Preparation Clubhouse](https://www.youtube.com/watch?v=_lqyZyplvjY)
-- [Learn k6 - E6 - Thresholds](https://www.youtube.com/watch?v=fT1t4mx5Ado)
+- [Learn k6 Series - E6 - Thresholds](https://www.youtube.com/watch?v=fT1t4mx5Ado)
 - [Learn k6 Series - E5 - Checks](https://www.youtube.com/watch?v=b44GPyTavpI)
 - [Learn JMeter Series #69 - Deploy Distributed Load Testing Infra for JMeter on AWS using Terraform](https://www.youtube.com/watch?v=60tzdeIvTQI)
-- [Learn JMeter Series #68 - Create JMeter Golden Image using Packer on AWS](https://www.youtube.com/watch?v=2KoEJScyO_4)
 <!-- YOUTUBE:END -->
 
 ---

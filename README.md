@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn JMeter Series #70 - My First JMeter Plugin - Validate Thread Group](https://www.youtube.com/watch?v=XyPjI3yp7No)
 - [Performance Engineering Series - E20 - Eclipse Jifa](https://www.youtube.com/watch?v=fMNcjuHQ0BE)
 - [Learn k6 Series - E8 - Metrics and Outputs](https://www.youtube.com/watch?v=Q9iE0d1Zkms)
 - [Performance Engineers Clubhouse - #25 GUI vs CLI Performance Testing Tools Clubhouse](https://www.youtube.com/watch?v=arLkrADewcA)
 - [Performance Engineers Clubhouse - #24 Performance Engineering and Accessibility](https://www.youtube.com/watch?v=dtfCFHAPmjc)
-- [Learn k6 Series - E7 - Scenarios and  Executors](https://www.youtube.com/watch?v=Qly25AWC_5c)
 <!-- YOUTUBE:END -->
 
 ---

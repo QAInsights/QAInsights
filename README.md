@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Gatling Series - E2 - Recording in Gatling using HTTP Proxy Mode](https://www.youtube.com/watch?v=oyUhtywWcmg)
 - [Performance Engineers Clubhouse - #28 Open vs Closed Workload Model](https://www.youtube.com/watch?v=z6p9AHmJDRU)
 - [Learn Gatling Series - E1 - An Intro](https://www.youtube.com/watch?v=y0XvlwdYhh8)
 - [Performance Engineers Clubhouse - #27 Performance Test Design using APM and O11Y](https://www.youtube.com/watch?v=x4Xga0FTZbI)
 - [Performance Engineers Clubhouse - #26 Dos and Don&#39;ts in Performance Test Scripting](https://www.youtube.com/watch?v=LskkUMrcFe4)
-- [Learn JMeter Series #70 - My First JMeter Plugin - Validate Thread Group](https://www.youtube.com/watch?v=XyPjI3yp7No)
 <!-- YOUTUBE:END -->
 
 ---

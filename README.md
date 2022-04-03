@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Gatling Series - E4 - Getting Started with Gradle for Gatling](https://www.youtube.com/watch?v=X2F4UbnfNw8)
 - [Performance Engineers Clubhouse - #29 Universal Scalability Law](https://www.youtube.com/watch?v=rp_I7jOpTR8)
 - [Learn Gatling Series - E3 - HAR Converter](https://www.youtube.com/watch?v=E20wNE3TBsI)
 - [Learn Gatling Series - E2 - Recording in Gatling using HTTP Proxy Mode](https://www.youtube.com/watch?v=oyUhtywWcmg)
 - [Performance Engineers Clubhouse - #28 Open vs Closed Workload Model](https://www.youtube.com/watch?v=z6p9AHmJDRU)
-- [Learn Gatling Series - E1 - An Intro](https://www.youtube.com/watch?v=y0XvlwdYhh8)
 <!-- YOUTUBE:END -->
 
 ---

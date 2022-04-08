@@ -59,7 +59,7 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [Learn JMeter Series #71 - Switching b/w Multiple Proxies using SwitchyOmega](https://www.youtube.com/watch?v=RvO1-rTuNNo)
+- [Learn JMeter Series #72 - Switching b/w Multiple Proxies using SwitchyOmega](https://www.youtube.com/watch?v=RvO1-rTuNNo)
 - [Learn Gatling Series - E5 - HTTP Checks](https://www.youtube.com/watch?v=WbEoXEY6Klk)
 - [Learn JMeter Series #71 - Using IntelliJ IDEA for Groovy Scripting with JMeter Classes](https://www.youtube.com/watch?v=ipTFKOKU8Vg)
 - [Learn Gatling Series - E4 - Getting Started with Gradle for Gatling](https://www.youtube.com/watch?v=X2F4UbnfNw8)

@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Gatling Series - E7 - Scenario](https://www.youtube.com/watch?v=ZKrE_AMJ160)
 - [Learn LoadRunner Series - Chaos Testing using Gremlin in LoadRunner Professional 2022](https://www.youtube.com/watch?v=5RO2HF4nIlk)
 - [Learn Gatling Series - E6 - Assertions](https://www.youtube.com/watch?v=OxZ_Emzesik)
 - [Learn JMeter Series #72 - Switching b/w Multiple Proxies using SwitchyOmega](https://www.youtube.com/watch?v=RvO1-rTuNNo)
 - [Learn Gatling Series - E5 - HTTP Checks](https://www.youtube.com/watch?v=WbEoXEY6Klk)
-- [Learn JMeter Series #71 - Using IntelliJ IDEA for Groovy Scripting with JMeter Classes](https://www.youtube.com/watch?v=ipTFKOKU8Vg)
 <!-- YOUTUBE:END -->
 
 ---

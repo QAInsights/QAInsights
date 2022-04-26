@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Gatling Series - E9 - Feeders](https://www.youtube.com/watch?v=gLcOvZCwbpc)
 - [Learn JMeter Series #74 - Grape in JMeter](https://www.youtube.com/watch?v=SChju9oXUrc)
 - [Learn Gatling Series - E8 - Configuration](https://www.youtube.com/watch?v=NUq1Ve0TmS8)
 - [Learn JMeter Series #73 - mTLS Authentication in JMeter](https://www.youtube.com/watch?v=sb8RpbT4QYA)
 - [Learn Gatling Series - E7 - Scenario](https://www.youtube.com/watch?v=ZKrE_AMJ160)
-- [Learn LoadRunner Series - Chaos Testing using Gremlin in LoadRunner Professional 2022](https://www.youtube.com/watch?v=5RO2HF4nIlk)
 <!-- YOUTUBE:END -->
 
 ---

@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn JMeter Series #75 - JMeter Upgrade Strategy](https://www.youtube.com/watch?v=DxLSu7rMyHg)
 - [Learn Gatling Series - E9 - Feeders](https://www.youtube.com/watch?v=gLcOvZCwbpc)
 - [Learn JMeter Series #74 - Grape in JMeter](https://www.youtube.com/watch?v=SChju9oXUrc)
 - [Learn Gatling Series - E8 - Configuration](https://www.youtube.com/watch?v=NUq1Ve0TmS8)
 - [Learn JMeter Series #73 - mTLS Authentication in JMeter](https://www.youtube.com/watch?v=sb8RpbT4QYA)
-- [Learn Gatling Series - E7 - Scenario](https://www.youtube.com/watch?v=ZKrE_AMJ160)
 <!-- YOUTUBE:END -->
 
 ---

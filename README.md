@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Performance Engineers Clubhouse - #30 Contributing to Open Source](https://www.youtube.com/watch?v=vB9PyqUxrLQ)
+- [Learn JMeter Series #76 - Getting Started with JMeter DSL](https://www.youtube.com/watch?v=JnnmSSYE2ok)
 - [Learn Gatling Series - E10 - Correlation](https://www.youtube.com/watch?v=s0dRDcm5O9o)
 - [Learn JMeter Series #75 - JMeter Upgrade Strategy](https://www.youtube.com/watch?v=DxLSu7rMyHg)
 - [Learn Gatling Series - E9 - Feeders](https://www.youtube.com/watch?v=gLcOvZCwbpc)
-- [Learn JMeter Series #74 - Grape in JMeter](https://www.youtube.com/watch?v=SChju9oXUrc)
-- [Learn Gatling Series - E8 - Configuration](https://www.youtube.com/watch?v=NUq1Ve0TmS8)
 <!-- YOUTUBE:END -->
 
 ---

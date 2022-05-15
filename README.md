@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Chaos Engineering Series - E1 Intro](https://www.youtube.com/watch?v=8qib94Gh1ws)
 - [Learn JMeter Series #77 - How to use FoxyProxy to record in JMeter?](https://www.youtube.com/watch?v=5swwAsWqAs8)
 - [Performance Engineers Clubhouse - #32 Golden Signals in Performance](https://www.youtube.com/watch?v=HrH2W27mj2c)
 - [Performance Engineers Clubhouse - #31 Test Data Management](https://www.youtube.com/watch?v=eF21GA-Gygs)
 - [Performance Engineers Clubhouse - #30 Contributing to Open Source](https://www.youtube.com/watch?v=vB9PyqUxrLQ)
-- [Learn JMeter Series #76 - Getting Started with JMeter DSL](https://www.youtube.com/watch?v=JnnmSSYE2ok)
 <!-- YOUTUBE:END -->
 
 ---

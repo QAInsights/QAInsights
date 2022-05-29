@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Chaos Engineering Series - E4 LitmusChaos on AWS EKS using IRSA](https://www.youtube.com/watch?v=w4ChJCIejvE)
 - [Learn Chaos Engineering Series - E3 Installing LitmusChaos on AWS EKS](https://www.youtube.com/watch?v=TykfTbC_W1E)
 - [Learn Chaos Engineering Series - E2 LitmusChaos Demo on AWS EKS](https://www.youtube.com/watch?v=_EFnRlme3hQ)
 - [Learn Chaos Engineering Series - E1 Intro](https://www.youtube.com/watch?v=8qib94Gh1ws)
 - [Learn JMeter Series #77 - How to use FoxyProxy to record in JMeter?](https://www.youtube.com/watch?v=5swwAsWqAs8)
-- [Performance Engineers Clubhouse - #32 Golden Signals in Performance](https://www.youtube.com/watch?v=HrH2W27mj2c)
 <!-- YOUTUBE:END -->
 
 ---

@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Chaos Engineering Series - E8 - Probes](https://www.youtube.com/watch?v=_aXrhJwM1YA)
 - [Learn Chaos Engineering Series - E7 - GitOps and Event-Triggered Chaos Injection](https://www.youtube.com/watch?v=LSJUwCKVg8g)
 - [Learn Chaos Engineering Series - E6 - Resiliency Score in LitmusChaos](https://www.youtube.com/watch?v=YiJqaF-nh-Y)
 - [Learn Chaos Engineering Series - E5 - Running LitmusChaos Experiments on two AWS Accounts](https://www.youtube.com/watch?v=dNevrEZEimg)
 - [Learn Chaos Engineering Series - E4 LitmusChaos on AWS EKS using IRSA](https://www.youtube.com/watch?v=w4ChJCIejvE)
-- [Learn Chaos Engineering Series - E3 Installing LitmusChaos on AWS EKS](https://www.youtube.com/watch?v=TykfTbC_W1E)
 <!-- YOUTUBE:END -->
 
 ---

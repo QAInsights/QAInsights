@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Chaos Engineering Series - E10 - LitmusChaos w/ Argo CD in Digital Ocean](https://www.youtube.com/watch?v=JS48zHbkuSw)
 - [Learn Chaos Engineering Series - E9 - Installing LitmusChaos in DigitalOcean](https://www.youtube.com/watch?v=zV1jCOU8_zA)
 - [Learn Chaos Engineering Series - E8 - Probes](https://www.youtube.com/watch?v=_aXrhJwM1YA)
 - [Learn Chaos Engineering Series - E7 - GitOps and Event-Triggered Chaos Injection](https://www.youtube.com/watch?v=LSJUwCKVg8g)
 - [Learn Chaos Engineering Series - E6 - Resiliency Score in LitmusChaos](https://www.youtube.com/watch?v=YiJqaF-nh-Y)
-- [Learn Chaos Engineering Series - E5 - Running LitmusChaos Experiments on two AWS Accounts](https://www.youtube.com/watch?v=dNevrEZEimg)
 <!-- YOUTUBE:END -->
 
 ---

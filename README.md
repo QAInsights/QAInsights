@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Chaos Engineering Series - E12 - Getting Started with Chaos Mesh on AWS EKS](https://www.youtube.com/watch?v=FO0RwYlJ28A)
 - [Learn Chaos Engineering Series - E11 - Getting Started with ChaosToolkit](https://www.youtube.com/watch?v=XZ_1ZqyOCdE)
 - [Learn JMeter Series #78 - What&#39;s new in JMeter 5.5?](https://www.youtube.com/watch?v=Q0buI38xzhU)
 - [Learn Chaos Engineering Series - E10 - LitmusChaos w/ Argo CD in Digital Ocean](https://www.youtube.com/watch?v=JS48zHbkuSw)
 - [Learn Chaos Engineering Series - E9 - Installing LitmusChaos in DigitalOcean](https://www.youtube.com/watch?v=zV1jCOU8_zA)
-- [Learn Chaos Engineering Series - E8 - Probes](https://www.youtube.com/watch?v=_aXrhJwM1YA)
 <!-- YOUTUBE:END -->
 
 ---

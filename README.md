@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn Chaos Engineering Series - E14 - KubeInvaders](https://www.youtube.com/watch?v=ZLJTtMSdQLM)
 - [Learn Chaos Engineering Series - E13 - Chaos Testing using k6](https://www.youtube.com/watch?v=g5DAr5g9dg0)
 - [Learn Chaos Engineering Series - E12 - Getting Started with Chaos Mesh on AWS EKS](https://www.youtube.com/watch?v=FO0RwYlJ28A)
 - [Learn Chaos Engineering Series - E11 - Getting Started with ChaosToolkit](https://www.youtube.com/watch?v=XZ_1ZqyOCdE)
 - [Learn JMeter Series #78 - What&#39;s new in JMeter 5.5?](https://www.youtube.com/watch?v=Q0buI38xzhU)
-- [Learn Chaos Engineering Series - E10 - LitmusChaos w/ Argo CD in Digital Ocean](https://www.youtube.com/watch?v=JS48zHbkuSw)
 <!-- YOUTUBE:END -->
 
 ---

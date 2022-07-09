@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [wrk - modern HTTP benchmarking tool](https://www.youtube.com/watch?v=idJIVvSDPrk)
 - [Benchmarking using ApacheBench ab](https://www.youtube.com/watch?v=7KtbiFt_g5E)
 - [Learn JMeter Series #79 - IP Spoofing](https://www.youtube.com/watch?v=8fsGqIVYVpg)
 - [Learn Chaos Engineering Series - E14 - KubeInvaders](https://www.youtube.com/watch?v=ZLJTtMSdQLM)
 - [Learn Chaos Engineering Series - E13 - Chaos Testing using k6](https://www.youtube.com/watch?v=g5DAr5g9dg0)
-- [Learn Chaos Engineering Series - E12 - Getting Started with Chaos Mesh on AWS EKS](https://www.youtube.com/watch?v=FO0RwYlJ28A)
 <!-- YOUTUBE:END -->
 
 ---

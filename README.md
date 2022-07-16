@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [Scale your JVM Performance](https://www.youtube.com/watch?v=JwhPa-BH1wc)
 - [Learn JMeter Series #80 - Deploy JPetStore in Okteto for Free](https://www.youtube.com/watch?v=M9H3blYeAZk)
 - [wrk - modern HTTP benchmarking tool](https://www.youtube.com/watch?v=idJIVvSDPrk)
 - [Benchmarking using ApacheBench ab](https://www.youtube.com/watch?v=7KtbiFt_g5E)
 - [Learn JMeter Series #79 - IP Spoofing](https://www.youtube.com/watch?v=8fsGqIVYVpg)
+- [Learn Chaos Engineering Series - E14 - KubeInvaders](https://www.youtube.com/watch?v=ZLJTtMSdQLM)
 <!-- YOUTUBE:END -->
 
 ---

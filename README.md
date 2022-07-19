@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [01 Getting Started with Artillery - Learn Artillery Series](https://www.youtube.com/watch?v=ME5JzpJ1suQ)
 - [Apache JMeter 101 w/ Mohamed Ibrahim](https://www.youtube.com/watch?v=1yHbnEURt5I)
 - [Scale your JVM Performance](https://www.youtube.com/watch?v=JwhPa-BH1wc)
 - [Learn JMeter Series #80 - Deploy JPetStore in Okteto for Free](https://www.youtube.com/watch?v=M9H3blYeAZk)
 - [wrk - modern HTTP benchmarking tool](https://www.youtube.com/watch?v=idJIVvSDPrk)
-- [Benchmarking using ApacheBench ab](https://www.youtube.com/watch?v=7KtbiFt_g5E)
 <!-- YOUTUBE:END -->
 
 ---

@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [03 Load Phases - Learn Artillery Series](https://www.youtube.com/watch?v=8WZvzH8P2OA)
 - [02 Hello, Web Service - Learn Artillery Series](https://www.youtube.com/watch?v=h3LEG3chNW0)
 - [01 Getting Started with Artillery - Learn Artillery Series](https://www.youtube.com/watch?v=ME5JzpJ1suQ)
 - [Apache JMeter 101 w/ Mohamed Ibrahim](https://www.youtube.com/watch?v=1yHbnEURt5I)
 - [Scale your JVM Performance](https://www.youtube.com/watch?v=JwhPa-BH1wc)
-- [Learn JMeter Series #80 - Deploy JPetStore in Okteto for Free](https://www.youtube.com/watch?v=M9H3blYeAZk)
 <!-- YOUTUBE:END -->
 
 ---

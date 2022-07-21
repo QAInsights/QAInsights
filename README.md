@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [04 Payload - Learn Artillery Series](https://www.youtube.com/watch?v=cHvwnviYv0c)
 - [03 Load Phases - Learn Artillery Series](https://www.youtube.com/watch?v=8WZvzH8P2OA)
+- [05 Correlation - Learn Artillery Series](https://www.youtube.com/watch?v=6-cx1yINi2M)
+- [04 Payload - Learn Artillery Series](https://www.youtube.com/watch?v=cHvwnviYv0c)
 - [02 Hello, Web Service - Learn Artillery Series](https://www.youtube.com/watch?v=h3LEG3chNW0)
 - [01 Getting Started with Artillery - Learn Artillery Series](https://www.youtube.com/watch?v=ME5JzpJ1suQ)
-- [Apache JMeter 101 w/ Mohamed Ibrahim](https://www.youtube.com/watch?v=1yHbnEURt5I)
 <!-- YOUTUBE:END -->
 
 ---

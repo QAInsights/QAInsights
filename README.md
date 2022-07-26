@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [08 Environment and Reporting - Learn Artillery Series](https://www.youtube.com/watch?v=ow8-wDyP1-g)
 - [07 Expectations - Learn Artillery Series](https://www.youtube.com/watch?v=MgZfxA0euGo)
 - [06 Debugging - Learn Artillery Series](https://www.youtube.com/watch?v=R7pwoPw7M_A)
 - [Apache JMeter 101 w/ Mohamed Ibrahim](https://www.youtube.com/watch?v=1yHbnEURt5I)
 - [05 Correlation - Learn Artillery Series](https://www.youtube.com/watch?v=6-cx1yINi2M)
-- [04 Payload - Learn Artillery Series](https://www.youtube.com/watch?v=cHvwnviYv0c)
 <!-- YOUTUBE:END -->
 
 ---

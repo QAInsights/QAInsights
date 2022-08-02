@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [10 Probe  - Learn Artillery Series](https://www.youtube.com/watch?v=b5QfVYEarao)
 - [Data Parameterization in JMeter](https://www.youtube.com/watch?v=lx2hrJipIaE)
 - [09 Artillery with Docker - Learn Artillery Series](https://www.youtube.com/watch?v=Lj60fLPIJSM)
 - [08 Environment and Reporting - Learn Artillery Series](https://www.youtube.com/watch?v=ow8-wDyP1-g)
 - [07 Expectations - Learn Artillery Series](https://www.youtube.com/watch?v=MgZfxA0euGo)
-- [06 Debugging - Learn Artillery Series](https://www.youtube.com/watch?v=R7pwoPw7M_A)
 <!-- YOUTUBE:END -->
 
 ---

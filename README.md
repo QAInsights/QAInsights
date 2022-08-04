@@ -59,8 +59,8 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [Load testing at scale with Artillery + AWS Lambda](https://www.youtube.com/watch?v=EM0G21B0h7o)
 - [Learn JMeter Series #81 - Generate JMeter Test Plans using OpenAPI Generator](https://www.youtube.com/watch?v=hwodPowL3iA)
+- [Load testing at scale with Artillery + AWS Lambda](https://www.youtube.com/watch?v=EM0G21B0h7o)
 - [10 Probe  - Learn Artillery Series](https://www.youtube.com/watch?v=b5QfVYEarao)
 - [Data Parameterization in JMeter](https://www.youtube.com/watch?v=lx2hrJipIaE)
 - [09 Artillery with Docker - Learn Artillery Series](https://www.youtube.com/watch?v=Lj60fLPIJSM)

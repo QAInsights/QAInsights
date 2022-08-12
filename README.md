@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Generate JMeter Reports using Latency Lingo](https://www.youtube.com/watch?v=8c0fgJmnoIY)
 - [GigaOm Radar for Cloud Performance Testing Tools Report 2022](https://www.youtube.com/watch?v=Yw83kHH-DZU)
 - [Load testing at scale with Artillery + AWS Lambda](https://www.youtube.com/watch?v=EM0G21B0h7o)
 - [Learn JMeter Series #82 - Generate JMeter HTML Report in Style using Latency Lingo](https://www.youtube.com/watch?v=f2eKPZPnNec)
 - [Learn JMeter Series #81 - Generate JMeter Test Plans using OpenAPI Generator](https://www.youtube.com/watch?v=hwodPowL3iA)
-- [10 Probe  - Learn Artillery Series](https://www.youtube.com/watch?v=b5QfVYEarao)
 <!-- YOUTUBE:END -->
 
 ---

@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
-- [Contributing to Open Source](https://www.youtube.com/watch?v=8CsoJNLe2h0)
 - [JMeter DSL](https://www.youtube.com/watch?v=ll_sN0AOuLo)
 - [Generate JMeter Reports using Latency Lingo](https://www.youtube.com/watch?v=8c0fgJmnoIY)
 - [GigaOm Radar for Cloud Performance Testing Tools Report 2022](https://www.youtube.com/watch?v=Yw83kHH-DZU)
 - [Load testing at scale with Artillery + AWS Lambda](https://www.youtube.com/watch?v=EM0G21B0h7o)
+- [Learn JMeter Series #82 - Generate JMeter HTML Report in Style using Latency Lingo](https://www.youtube.com/watch?v=f2eKPZPnNec)
 <!-- YOUTUBE:END -->
 
 ---

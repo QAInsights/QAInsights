@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn JMeter Series #86 - JTLReporter](https://www.youtube.com/watch?v=TXCw9SEWZr8)
 - [Find Performance Issues using OpenTelemetry](https://www.youtube.com/watch?v=pkCegyyfxj0)
 - [First Look at Headlamp Test - Augmented Reality Tool for Testing](https://www.youtube.com/watch?v=cF1TJoeGqxE)
 - [Python + JMeter = pymeter](https://www.youtube.com/watch?v=v-XHRJW50lE)
 - [First Look at Neoload 9.0 RealBrowser Technology](https://www.youtube.com/watch?v=zmuthcE87-A)
-- [First Look at JetBrains Fleet](https://www.youtube.com/watch?v=89yiMvkWhCw)
 <!-- YOUTUBE:END -->
 
 ---

@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [First Look at Harness Gitness](https://www.youtube.com/watch?v=vGhlKTsbtVU)
 - [Learn JMeter Series #87 - #jmeter #observability Plugin](https://www.youtube.com/watch?v=yY3Z1Yui5pk)
 - [API Performance Testing in Postman](https://www.youtube.com/watch?v=PmJm2XHPM68)
 - [Learn JMeter Series #86 - JTLReporter](https://www.youtube.com/watch?v=TXCw9SEWZr8)
 - [Find Performance Issues using OpenTelemetry](https://www.youtube.com/watch?v=pkCegyyfxj0)
-- [First Look at Headlamp Test - Augmented Reality Tool for Testing](https://www.youtube.com/watch?v=cF1TJoeGqxE)
 <!-- YOUTUBE:END -->
 
 ---

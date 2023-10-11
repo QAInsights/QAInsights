@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Ddosify&#39;s New Feature: Observability](https://www.youtube.com/watch?v=f7bGoxVEfYk)
 - [Exclusive Preview: Postman Live Insights Unveiled](https://www.youtube.com/watch?v=Zlqz9WrDx6o)
 - [First Look at Harness Gitness](https://www.youtube.com/watch?v=vGhlKTsbtVU)
 - [Learn JMeter Series #87 - #jmeter #observability Plugin](https://www.youtube.com/watch?v=yY3Z1Yui5pk)
 - [API Performance Testing in Postman](https://www.youtube.com/watch?v=PmJm2XHPM68)
-- [Learn JMeter Series #86 - JTLReporter](https://www.youtube.com/watch?v=TXCw9SEWZr8)
 <!-- YOUTUBE:END -->
 
 ---

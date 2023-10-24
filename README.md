@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [CPU and Heap Profiling - Learn Vegeta Series #3](https://www.youtube.com/watch?v=K3vxRLhuKds)
 - [Data Parameterization - Learn Vegeta Series #2](https://www.youtube.com/watch?v=PvHszG9xKds)
 - [Getting Started with Vegeta - Learn Vegeta Series #1](https://www.youtube.com/watch?v=BltyNlgNAHo)
 - [Run Performance Benchmarks in your Kubernetes Cluster](https://www.youtube.com/watch?v=J-7LJzWsz_s)
 - [Ddosify&#39;s New Feature: Observability](https://www.youtube.com/watch?v=f7bGoxVEfYk)
-- [Exclusive Preview: Postman Live Insights Unveiled](https://www.youtube.com/watch?v=Zlqz9WrDx6o)
 <!-- YOUTUBE:END -->
 
 ---

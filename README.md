@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Learn JMeter Series #88 - Introducing the Apache JMeter Docker Extension](https://www.youtube.com/watch?v=OOm9iwC7f44)
 - [CPU and Heap Profiling - Learn Vegeta Series #3](https://www.youtube.com/watch?v=K3vxRLhuKds)
 - [Data Parameterization - Learn Vegeta Series #2](https://www.youtube.com/watch?v=PvHszG9xKds)
 - [Getting Started with Vegeta - Learn Vegeta Series #1](https://www.youtube.com/watch?v=BltyNlgNAHo)
 - [Run Performance Benchmarks in your Kubernetes Cluster](https://www.youtube.com/watch?v=J-7LJzWsz_s)
-- [Ddosify&#39;s New Feature: Observability](https://www.youtube.com/watch?v=f7bGoxVEfYk)
 <!-- YOUTUBE:END -->
 
 ---

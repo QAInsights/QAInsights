@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advantage Online Shopping Setup for Performance Testing](https://qainsights.com/advantage-online-shopping-setup-for-performance-testing/)
-- [Open Model Thread Group in JMeter](https://qainsights.com/open-model-thread-group-in-jmeter/)
-- [What’s new in Apache JMeter 5.4.3?](https://qainsights.com/apache-jmeter-5-4-3/)
-- [What to do if you cannot upgrade to JMeter 5.4.2 for Log4j Vulnerability?](https://qainsights.com/what-to-do-if-you-cannot-upgrade-to-jmeter-5-4-2-for-log4j-vulnerability/)
-- [Black Friday Performance Testing 2021](https://qainsights.com/black-friday-performance-testing-2021/)
+- [Improving Your Python Knowledge](https://qainsights.com/improving-your-python-knowledge/)
+- [Mastering Data Looping in JMeter: A Simple Trick for Efficient Testing](https://qainsights.com/mastering-data-looping-in-jmeter-a-simple-trick-for-efficient-testing/)
+- [What’s new in Apache JMeter 5.6.3?](https://qainsights.com/whats-new-in-apache-jmeter-5-6-3/)
+- [Unlocking the Power of Large Language Models with Kel: Enhancing Workflow and Productivity](https://qainsights.com/unlocking-the-power-of-large-language-models-with-kel-enhancing-workflow-and-productivity/)
+- [Boost Your Productivity with Hamster – A Handy Tool for JMeter Users](https://qainsights.com/boost-your-jmeter-productivity-with-hamster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

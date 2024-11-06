@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Getting Started withy k6 studio](https://www.youtube.com/watch?v=9CUyZQJxtZg)
 - [Learn JMeter Series #89 - JMeter Viewer Plugin for IntelliJ IDEA](https://www.youtube.com/watch?v=N8aMIYZFPpc)
 - [Kel - AI assistant for your CLI](https://www.youtube.com/watch?v=0DyZcV7VF98)
 - [Introducing Hamster for Windows - Launch JMeter Tests Swiftly from the Status Bar!](https://www.youtube.com/watch?v=D0T-RXgkCl4)
 - [Introducing the JMeter Productivity Booster - Hamster!](https://www.youtube.com/watch?v=pei5ohy--ps)
-- [Multiple.dev: A New Load Testing Tool Tutorial](https://www.youtube.com/watch?v=7hD0xlrURpY)
 <!-- YOUTUBE:END -->
 
 ---

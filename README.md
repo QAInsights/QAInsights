@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [World&#39;s Smallest Docker Image for JMeter - docker pull qainsights/jmeter](https://www.youtube.com/watch?v=Ph5-fwr4KF0)
 - [Feather Wand - World&#39;s First JMeter Agent](https://www.youtube.com/watch?v=a1U1NYzeQl8)
 - [Getting Started withy k6 studio](https://www.youtube.com/watch?v=9CUyZQJxtZg)
 - [Learn JMeter Series #89 - JMeter Viewer Plugin for IntelliJ IDEA](https://www.youtube.com/watch?v=N8aMIYZFPpc)
 - [Kel - AI assistant for your CLI](https://www.youtube.com/watch?v=0DyZcV7VF98)
-- [Introducing Hamster for Windows - Launch JMeter Tests Swiftly from the Status Bar!](https://www.youtube.com/watch?v=D0T-RXgkCl4)
 <!-- YOUTUBE:END -->
 
 ---

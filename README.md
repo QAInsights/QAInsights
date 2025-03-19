@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Improving Your Python Knowledge](https://qainsights.com/improving-your-python-knowledge/)
-- [Mastering Data Looping in JMeter: A Simple Trick for Efficient Testing](https://qainsights.com/mastering-data-looping-in-jmeter-a-simple-trick-for-efficient-testing/)
-- [What’s new in Apache JMeter 5.6.3?](https://qainsights.com/whats-new-in-apache-jmeter-5-6-3/)
-- [Unlocking the Power of Large Language Models with Kel: Enhancing Workflow and Productivity](https://qainsights.com/unlocking-the-power-of-large-language-models-with-kel-enhancing-workflow-and-productivity/)
-- [Boost Your Productivity with Hamster – A Handy Tool for JMeter Users](https://qainsights.com/boost-your-jmeter-productivity-with-hamster/)
+- [Introducing a Lightweight Apache JMeter Docker Image: Efficient Load Testing Made Simple](https://qainsights.com/introducing-a-lightweight-apache-jmeter-docker-image-efficient-load-testing-made-simple/)
+- [Introducing Feather Wand: Your AI-Powered Companion for JMeter](https://qainsights.com/introducing-feather-wand-your-ai-powered-companion-for-jmeter/)
+- [Karpenter 1.0 for Beginners: A Simple Guide to Kubernetes Autoscaling](https://qainsights.com/karpenter-1-0-for-beginners-a-simple-guide-to-kubernetes-autoscaling/)
+- [Understanding CDK Garbage Collection in AWS: A Deep Dive](https://qainsights.com/understanding-cdk-garbage-collection-in-aws-a-deep-dive/)
+- [Restricting Amazon S3 Bucket Access to a Specific IAM Role: The Latest Approach](https://qainsights.com/restricting-amazon-s3-bucket-access-to-a-specific-iam-role-the-latest-approach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

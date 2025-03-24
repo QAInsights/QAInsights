@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [What&#39;s new in Feather Wand v1.0.5 - JMeter AI Agent?](https://www.youtube.com/watch?v=z9fg0awThB0)
 - [Feather Wand - AI Assistant for JMeter - How to get started?](https://www.youtube.com/watch?v=yuS_DSFt6tU)
 - [World&#39;s Smallest Docker Image for JMeter - docker pull qainsights/jmeter](https://www.youtube.com/watch?v=Ph5-fwr4KF0)
 - [Feather Wand - World&#39;s First JMeter Agent](https://www.youtube.com/watch?v=a1U1NYzeQl8)
 - [Getting Started withy k6 studio](https://www.youtube.com/watch?v=9CUyZQJxtZg)
-- [Learn JMeter Series #89 - JMeter Viewer Plugin for IntelliJ IDEA](https://www.youtube.com/watch?v=N8aMIYZFPpc)
 <!-- YOUTUBE:END -->
 
 ---

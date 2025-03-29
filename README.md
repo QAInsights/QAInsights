@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run k6 Load Tests with Your LLM: Introducing k6-mcp-server and the Power of MCP](https://qainsights.com/run-k6-load-tests-with-your-llm-introducing-k6-mcp-server-and-the-power-of-mcp/)
 - [Run JMeter Tests Directly from Your AI Assistant: Introducing the JMeter MCP Server](https://qainsights.com/run-jmeter-tests-directly-from-your-ai-assistant-introducing-the-jmeter-mcp-server/)
 - [Introducing a Lightweight Apache JMeter Docker Image: Efficient Load Testing Made Simple](https://qainsights.com/introducing-a-lightweight-apache-jmeter-docker-image-efficient-load-testing-made-simple/)
 - [Introducing Feather Wand: Your AI-Powered Companion for JMeter](https://qainsights.com/introducing-feather-wand-your-ai-powered-companion-for-jmeter/)
 - [Karpenter 1.0 for Beginners: A Simple Guide to Kubernetes Autoscaling](https://qainsights.com/karpenter-1-0-for-beginners-a-simple-guide-to-kubernetes-autoscaling/)
-- [Understanding CDK Garbage Collection in AWS: A Deep Dive](https://qainsights.com/understanding-cdk-garbage-collection-in-aws-a-deep-dive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

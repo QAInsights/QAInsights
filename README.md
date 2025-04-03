@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Locust Model Context Protocol Server](https://www.youtube.com/watch?v=y8Ae37p6UDQ)
 - [Grafana k6 Model Context Protocol &lpar;MCP&rpar; Server](https://www.youtube.com/watch?v=wkNQK8hpD98)
 - [JMeter Model Context Protocol &lpar;MCP&rpar; Server](https://www.youtube.com/watch?v=zn0B1-Vod1E)
 - [What&#39;s new in Feather Wand v1.0.5 - JMeter AI Agent?](https://www.youtube.com/watch?v=z9fg0awThB0)
 - [Feather Wand - AI Assistant for JMeter - How to get started?](https://www.youtube.com/watch?v=yuS_DSFt6tU)
-- [World&#39;s Smallest Docker Image for JMeter - docker pull qainsights/jmeter](https://www.youtube.com/watch?v=Ph5-fwr4KF0)
 <!-- YOUTUBE:END -->
 
 ---

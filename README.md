@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S1 E4 - Learn Hashicorp Vault - Storage Type: Consul](https://www.youtube.com/watch?v=BAuiwb4sfAw)
 - [S1 E3 - Learn Hashicorp Vault - Storage Type: Raft - High Availability](https://www.youtube.com/watch?v=toAAKNoGWCA)
 - [S1 E2 - Learn Hashicorp Vault - Storage Type: File](https://www.youtube.com/watch?v=aBaa8U4c55Q)
 - [S1 E1 - Learn Hashicorp Vault - An Introduction - Dev Setup &amp; Secrets Management](https://www.youtube.com/watch?v=FCWPU3ZuY7A)
 - [Introducing Feather Wand Agent - Built using Google Agent Development Kit](https://www.youtube.com/watch?v=90dRSw3g5Us)
-- [What&#39;s new in Feather Wand v1.0.9?](https://www.youtube.com/watch?v=s2Y1EiX2ces)
 <!-- YOUTUBE:END -->
 
 ---

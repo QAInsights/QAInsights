@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [S1 E7 - Learn Hashicorp Vault - Policy](https://www.youtube.com/watch?v=KRr95fw0KKM)
 - [S1 E6 - Learn Hashicorp Vault - Key Value Secrets Engine v2](https://www.youtube.com/watch?v=uPlw_kJtQm4)
 - [S1 E5 - Learn Hashicorp Vault - Auth Vs Secrets](https://www.youtube.com/watch?v=BiFmXfPA6xI)
 - [S1 E4 - Learn Hashicorp Vault - Storage Type: Consul](https://www.youtube.com/watch?v=BAuiwb4sfAw)
 - [S1 E3 - Learn Hashicorp Vault - Storage Type: Raft - High Availability](https://www.youtube.com/watch?v=toAAKNoGWCA)
-- [S1 E2 - Learn Hashicorp Vault - Storage Type: File](https://www.youtube.com/watch?v=aBaa8U4c55Q)
 <!-- YOUTUBE:END -->
 
 ---

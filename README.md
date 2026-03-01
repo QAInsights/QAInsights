@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Feather Wand 2.0 - Claude Code Integration](https://www.youtube.com/watch?v=j6sftc7KcGY)
 - [Claude Code inside JMeter - Feather Wand 2.0 JMeter AI Plugin](https://www.youtube.com/watch?v=E3riphWMG98)
 - [GitHub Copilot CLI Challenge: bt: Modern BLE CLI Tool](https://www.youtube.com/watch?v=EJqVMSVTeJM)
 - [Comparing SFTP and FTPS performance using SFTP To Go](https://www.youtube.com/watch?v=BlnRPneUAYc)
 - [S1 E7 - Learn Hashicorp Vault - Policy](https://www.youtube.com/watch?v=KRr95fw0KKM)
-- [S1 E6 - Learn Hashicorp Vault - Key Value Secrets Engine v2](https://www.youtube.com/watch?v=uPlw_kJtQm4)
 <!-- YOUTUBE:END -->
 
 ---

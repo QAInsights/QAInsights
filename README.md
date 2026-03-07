@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=QAInsights&color=brightgreen)  
  ⚡ I am a full stack developer engineer. I build stuff. And I know nothing.  
  🌱 currently learning everthing I could  
- ✍️ blogs at [QAInsights](https://qainsights.com)  
+ ✍️ blogs at [QAInsights](https://qainsights.com) since 2012  
  📺 [YouTube](https://qain.si/youtube)  
  👨‍🏫 Udemy [Performance Testing using DevWeb](https://qain.si/devweb) | [Learn JMeter](https://www.udemy.com/course/learn-apache-jmeter/?referralCode=A263186828774CB459B7)  
  💬 ask me anything about performance testing/engineering in [QAInsights Community](https://community.qainsights.com/)  

@@ -4,7 +4,7 @@
  ✍️ blogs at [QAInsights](https://qainsights.com)  
  📺 [YouTube channel](https://qain.si/youtube)  
  👨‍🏫 Udemy [Performance Testing using DevWeb](https://qain.si/devweb) | [Learn JMeter](https://www.udemy.com/course/learn-apache-jmeter/?referralCode=A263186828774CB459B7)  
- 🌱 currently learning everthing I could
+ 🌱 currently learning everthing I could  
  🛠 I made [Feather Wand](https://jmeter.ai) | [Perfdle](https://perfdle.com) | [PerfTractor](https://perftractor.xyz)  
  🎮 Xbox | Raspberry Pi  
  💬 ask me anything about performance testing/engineering in [QAInsights Community](https://community.qainsights.com/)  

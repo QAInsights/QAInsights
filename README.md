@@ -1,5 +1,5 @@
-# 👋 Hello there! 
-![](https://komarev.com/ghpvc/?username=QAInsights&color=brightgreen)  
+# 👋 Hello there! ![](https://komarev.com/ghpvc/?username=QAInsights&color=brightgreen)  
+
  ⚡ I am a full stack developer engineer, previously into performance; I build stuff; And I know nothing.  
  🌱 currently learning everthing I could  
  ✍️ blogs at [QAInsights](https://qainsights.com) since 2012  

@@ -16,7 +16,7 @@
 🌿[Feather Wand - JMeter AI Agent](https://github.com/QAInsights/jmeter-ai)  
 🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)  
 🌿[PerfAction](https://github.com/QAInsights/PerfAction)  
-🌿[Clip It!]([https://github.com/QAInsights/clip-coupons-extension](https://chromewebstore.google.com/detail/clip-it/dmacanhpegjjgmicfbinaafcnjaigecf)    
+🌿[Clip It!](https://chromewebstore.google.com/detail/clip-it/dmacanhpegjjgmicfbinaafcnjaigecf)    
 🌿[Confetti Celebrations](https://chromewebstore.google.com/detail/confetti-celebrations/jlnaaichmlfhooionenmhdnimhdmoijb)  
 🌿[MuleSoft Community VS Code Theme](https://github.com/ProstDev/mulesoft-community-theme)  
 

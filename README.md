@@ -2,13 +2,22 @@
 ![](https://komarev.com/ghpvc/?username=QAInsights&color=brightgreen)  
  ⚡ I am a full stack developer engineer. I build stuff. And I know nothing.  
  ✍️ blogs at [QAInsights](https://qainsights.com)  
- 📺 my [YouTube channel](https://qain.si/youtube)  
- 👨‍🏫 at Udemy [Performance Testing using DevWeb](https://qain.si/devweb) | [Learn JMeter](https://www.udemy.com/course/learn-apache-jmeter/?referralCode=A263186828774CB459B7)  
- 🌱 currently learning Kubernetes, Docker, Rancher, Linux, and DevOps  
+ 📺 [YouTube channel](https://qain.si/youtube)  
+ 👨‍🏫 Udemy [Performance Testing using DevWeb](https://qain.si/devweb) | [Learn JMeter](https://www.udemy.com/course/learn-apache-jmeter/?referralCode=A263186828774CB459B7)  
+ 🌱 currently learning everthing I could
  🛠 I made [Feather Wand](https://jmeter.ai) | [Perfdle](https://perfdle.com) | [PerfTractor](https://perftractor.xyz)  
  🎮 Xbox | Raspberry Pi  
  💬 ask me anything about performance testing/engineering in [QAInsights Community](https://community.qainsights.com/)  
  📘 [Earn Cash by Performance Testing](https://amzn.to/3g0rOPF) | [Excel in MS Excel](https://amzn.to/3atvJDL) | [The Complete Guide on HP LoadRunner Web Controller](https://amzn.to/3aviYZ4)
+
+# Nothing Serious Projects
+
+🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)
+🌿[Feather Wand - JMeter AI Agent](https://github.com/QAInsights/jmeter-ai)
+🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)
+🌿[PerfAction](https://github.com/QAInsights/PerfAction)
+🌿[Clip Coupon](https://github.com/QAInsights/clip-coupons-extension)
+🌿[MuleSoft Community VS Code Theme](https://github.com/ProstDev/mulesoft-community-theme)
 
 <br/>
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/QAInsights?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>

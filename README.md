@@ -1,12 +1,10 @@
 # 👋 Hello there! 
 ![](https://komarev.com/ghpvc/?username=QAInsights&color=brightgreen)  
  ⚡ I am a full stack developer engineer. I build stuff. And I know nothing.  
- ✍️ blogs at [QAInsights](https://qainsights.com)  
- 📺 [YouTube channel](https://qain.si/youtube)  
- 👨‍🏫 Udemy [Performance Testing using DevWeb](https://qain.si/devweb) | [Learn JMeter](https://www.udemy.com/course/learn-apache-jmeter/?referralCode=A263186828774CB459B7)  
  🌱 currently learning everthing I could  
- 🛠 I made [Feather Wand](https://jmeter.ai) | [Perfdle](https://perfdle.com) | [PerfTractor](https://perftractor.xyz)  
- 🎮 Xbox | Raspberry Pi  
+ ✍️ blogs at [QAInsights](https://qainsights.com)  
+ 📺 [YouTube](https://qain.si/youtube)  
+ 👨‍🏫 Udemy [Performance Testing using DevWeb](https://qain.si/devweb) | [Learn JMeter](https://www.udemy.com/course/learn-apache-jmeter/?referralCode=A263186828774CB459B7)  
  💬 ask me anything about performance testing/engineering in [QAInsights Community](https://community.qainsights.com/)  
  📘 [Earn Cash by Performance Testing](https://amzn.to/3g0rOPF) | [Excel in MS Excel](https://amzn.to/3atvJDL) | [The Complete Guide on HP LoadRunner Web Controller](https://amzn.to/3aviYZ4)
 
@@ -14,6 +12,7 @@
 
 🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)  
 🌿[Feather Wand - JMeter AI Agent](https://github.com/QAInsights/jmeter-ai)  
+🌿[PerfTractor](https://perftractor.xyz)  
 🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)  
 🌿[PerfAction](https://github.com/QAInsights/PerfAction)  
 🌿[Clip It!](https://chromewebstore.google.com/detail/clip-it/dmacanhpegjjgmicfbinaafcnjaigecf)    

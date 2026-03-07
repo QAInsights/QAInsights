@@ -12,12 +12,12 @@
 
 # Nothing Serious Projects
 
-🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)
-🌿[Feather Wand - JMeter AI Agent](https://github.com/QAInsights/jmeter-ai)
-🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)
-🌿[PerfAction](https://github.com/QAInsights/PerfAction)
-🌿[Clip Coupon](https://github.com/QAInsights/clip-coupons-extension)
-🌿[MuleSoft Community VS Code Theme](https://github.com/ProstDev/mulesoft-community-theme)
+🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)  
+🌿[Feather Wand - JMeter AI Agent](https://github.com/QAInsights/jmeter-ai)  
+🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)  
+🌿[PerfAction](https://github.com/QAInsights/PerfAction)  
+🌿[Clip Coupon](https://github.com/QAInsights/clip-coupons-extension)  
+🌿[MuleSoft Community VS Code Theme](https://github.com/ProstDev/mulesoft-community-theme)  
 
 <br/>
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/QAInsights?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>

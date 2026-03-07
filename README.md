@@ -19,10 +19,6 @@
 🌿[Confetti Celebrations](https://chromewebstore.google.com/detail/confetti-celebrations/jlnaaichmlfhooionenmhdnimhdmoijb)  
 🌿[MuleSoft Community VS Code Theme](https://github.com/ProstDev/mulesoft-community-theme)  
 
-<br/>
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/QAInsights?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-<br/>
-
 # 📪 Connect with me
 
 [<img align="left" alt="qainsights.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

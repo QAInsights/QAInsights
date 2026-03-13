@@ -56,11 +56,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Super Key - JMeter Command Center Promo](https://www.youtube.com/watch?v=OAWhZGn8gzU)
 - [SuperKey Plugin - JMeter Command Center](https://www.youtube.com/watch?v=N95Bz5njcGY)
 - [Feather Wand 2.0 - Claude Code Integration](https://www.youtube.com/watch?v=j6sftc7KcGY)
 - [Claude Code inside JMeter - Feather Wand 2.0 JMeter AI Plugin](https://www.youtube.com/watch?v=E3riphWMG98)
 - [GitHub Copilot CLI Challenge: bt: Modern BLE CLI Tool](https://www.youtube.com/watch?v=EJqVMSVTeJM)
-- [Comparing SFTP and FTPS performance using SFTP To Go](https://www.youtube.com/watch?v=BlnRPneUAYc)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

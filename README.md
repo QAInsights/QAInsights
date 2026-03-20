@@ -56,11 +56,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Stop Using Vanilla JMeter — Install JMeter Studio in 2 Minutes](https://www.youtube.com/watch?v=_XnpmVfW3dE)
 - [I Built a Multi-Tab for Apache JMeter – Introducing Prism Plugin](https://www.youtube.com/watch?v=KzAP19pIkc8)
 - [Super Key - JMeter Command Center Promo](https://www.youtube.com/watch?v=OAWhZGn8gzU)
 - [SuperKey Plugin - JMeter Command Center](https://www.youtube.com/watch?v=N95Bz5njcGY)
 - [Feather Wand 2.0 - Claude Code Integration](https://www.youtube.com/watch?v=j6sftc7KcGY)
-- [Claude Code inside JMeter - Feather Wand 2.0 JMeter AI Plugin](https://www.youtube.com/watch?v=E3riphWMG98)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

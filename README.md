@@ -56,11 +56,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [JMeter Plugin Development - Hello World Menu](https://www.youtube.com/watch?v=kOGesTBqaKo)
 - [How to become an AI Performance Engineer? E1 - Perf Skills](https://www.youtube.com/watch?v=5u_QJq7cSj8)
 - [Stop Using Vanilla JMeter — Install JMeter Studio in 2 Minutes](https://www.youtube.com/watch?v=_XnpmVfW3dE)
 - [I Built a Multi-Tab for Apache JMeter – Introducing Prism Plugin](https://www.youtube.com/watch?v=KzAP19pIkc8)
 - [Super Key - JMeter Command Center Promo](https://www.youtube.com/watch?v=OAWhZGn8gzU)
-- [SuperKey Plugin - JMeter Command Center](https://www.youtube.com/watch?v=N95Bz5njcGY)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

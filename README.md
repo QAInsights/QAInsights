@@ -45,11 +45,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JMeter Plugin Development: Episode 1 – The Hello World Menu](https://qainsights.com/mastering-jmeter-plugin-development-episode-1-the-hello-world-menu/)
 - [Say Goodbye to Menu Diving: Meet SuperKey, the Ultimate Command Palette for JMeter](https://qainsights.com/say-goodbye-to-menu-diving-meet-superkey-the-ultimate-command-palette-for-jmeter/)
 - [Beyond Chatbots: Supercharging Feather Wand with Claude Code Integration](https://qainsights.com/beyond-chatbots-supercharging-feather-wand-with-claude-code-integration/)
 - [Java Pass by Value or Pass by Reference](https://qainsights.com/java-pass-by-value-or-pass-by-reference/)
 - [What’s new in Apache JMeter 6.0.0?](https://qainsights.com/whats-new-in-apache-jmeter-6-0-0/)
-- [Amazon Rekognition: Add Image and Video AI to Your Apps in Minutes](https://qainsights.com/amazon-rekognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

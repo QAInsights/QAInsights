@@ -56,11 +56,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [JMeter Plugin Development - Custom Functions - Create your own Fake data](https://www.youtube.com/watch?v=UN_58a7DrMI)
 - [JMeter Plugin Development - Hello World Icon](https://www.youtube.com/watch?v=8lMwj_rgfGw)
 - [JMeter Plugin Development - Hello World Menu](https://www.youtube.com/watch?v=kOGesTBqaKo)
 - [How to become an AI Performance Engineer? E1 - Perf Skills](https://www.youtube.com/watch?v=5u_QJq7cSj8)
 - [Stop Using Vanilla JMeter — Install JMeter Studio in 2 Minutes](https://www.youtube.com/watch?v=_XnpmVfW3dE)
-- [I Built a Multi-Tab for Apache JMeter – Introducing Prism Plugin](https://www.youtube.com/watch?v=KzAP19pIkc8)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

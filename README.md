@@ -10,12 +10,12 @@
 
 # 🌿 Nothing Serious Projects
 
-🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)  
-🌿[PerfAtlas](https://plugins.jmeter.ai)
-🌿[AI Dosa](https://ai.dosa.dev)  
+🌿[PerfAtlas - modern JMeter Plugins directory](https://plugins.jmeter.ai)  
+🌿[AI Dosa - Awesome AI tools](https://ai.dosa.dev)  
+🌿[MetaHide - Chrome Extension](https://chromewebstore.google.com/detail/metahide/hodomjpjmaifjigbaobgabhpgkhifpib)  
 🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)  
 🌿[Feather Wand - JMeter AI Agent](https://github.com/QAInsights/jmeter-ai)  
-🌿[PerfTractor](https://perftractor.xyz)  
+🌿[JMeter.AI](https://jmeter.ai)  
 🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)  
 🌿[PerfAction](https://github.com/QAInsights/PerfAction)  
 🌿[Clip It!](https://chromewebstore.google.com/detail/clip-it/dmacanhpegjjgmicfbinaafcnjaigecf)    

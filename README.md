@@ -11,6 +11,9 @@
 # 🌿 Nothing Serious Projects
 
 🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)  
+🌿[PerfAtlas](https://plugins.jmeter.ai)
+🌿[AI Dosa](https://ai.dosa.dev)  
+🌿[Super Key - JMeter Command Center](https://github.com/QAInsights/superkey)  
 🌿[Feather Wand - JMeter AI Agent](https://github.com/QAInsights/jmeter-ai)  
 🌿[PerfTractor](https://perftractor.xyz)  
 🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)  

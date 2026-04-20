@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JMeter Plugin Development – The Hello World Icon &amp; UI Pinpointing](https://qainsights.com/jmeter-plugin-development-the-hello-world-icon-ui-pinpointing/)
 - [The Last Java Client You’ll Ever Write By Hand](https://qainsights.com/the-last-java-client-youll-ever-write-by-hand/)
 - [Stop Renting AI. It’s Time to Own It – With Amazon Nova Forge](https://qainsights.com/amazon-nova-forge/)
 - [Mastering JMeter Plugin Development: Episode 1 – The Hello World Menu](https://qainsights.com/mastering-jmeter-plugin-development-episode-1-the-hello-world-menu/)
 - [Your S3 Data Deserves Better Than a Copy-Paste Workflow](https://qainsights.com/your-s3-data-deserves-better-than-a-copy-paste-workflow/)
-- [Say Goodbye to Menu Diving: Meet SuperKey, the Ultimate Command Palette for JMeter](https://qainsights.com/say-goodbye-to-menu-diving-meet-superkey-the-ultimate-command-palette-for-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

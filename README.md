@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [JMeter Plugin Development - AI Batch Error Analyst Listener and GUI](https://www.youtube.com/watch?v=hzGUWD5HwiM)
 - [JMeter Plugin Development - AI Error Analyst Listener](https://www.youtube.com/watch?v=g618SqXNit4)
 - [⚡️ Introducing PerfAtlas - modern JMeter Plugins directory for AI](https://www.youtube.com/watch?v=hm-wbJYPeDU)
 - [JMeter Plugin Development - Custom Functions - Create your own Fake data](https://www.youtube.com/watch?v=UN_58a7DrMI)
 - [JMeter Plugin Development - Hello World Icon](https://www.youtube.com/watch?v=8lMwj_rgfGw)
-- [JMeter Plugin Development - Hello World Menu](https://www.youtube.com/watch?v=kOGesTBqaKo)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

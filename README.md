@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built PerfAtlas: A Modern JMeter Plugin Directory](https://qainsights.com/why-i-built-perfatlas/)
 - [How to Performance Test LLM Applications with JMeter &lpar;The Complete 2026 Guide&rpar;](https://qainsights.com/how-to-performance-test-llm-applications-with-jmeter-the-complete-2026-guide/)
 - [JMeter Plugin Development – The Hello World Icon &amp; UI Pinpointing](https://qainsights.com/jmeter-plugin-development-the-hello-world-icon-ui-pinpointing/)
 - [The Last Java Client You’ll Ever Write By Hand](https://qainsights.com/the-last-java-client-youll-ever-write-by-hand/)
 - [Stop Renting AI. It’s Time to Own It – With Amazon Nova Forge](https://qainsights.com/amazon-nova-forge/)
-- [Mastering JMeter Plugin Development: Episode 1 – The Hello World Menu](https://qainsights.com/mastering-jmeter-plugin-development-episode-1-the-hello-world-menu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

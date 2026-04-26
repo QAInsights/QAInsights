@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [JMeter Plugin Development - Ollama AI Judge Assertion](https://www.youtube.com/watch?v=F0iv0YpTWf0)
 - [JMeter Plugin Development - Ollama Stream Sampler &amp; TTFT](https://www.youtube.com/watch?v=dkokqsu5sQs)
 - [JMeter Plugin Development - AI Batch Error Analyst Listener and GUI](https://www.youtube.com/watch?v=hzGUWD5HwiM)
 - [JMeter Plugin Development - AI Error Analyst Listener](https://www.youtube.com/watch?v=g618SqXNit4)
 - [⚡️ Introducing PerfAtlas - modern JMeter Plugins directory for AI](https://www.youtube.com/watch?v=hm-wbJYPeDU)
-- [JMeter Plugin Development - Custom Functions - Create your own Fake data](https://www.youtube.com/watch?v=UN_58a7DrMI)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

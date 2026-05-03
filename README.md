@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stage, Commit, Repeat: Managing JMX Changes with SuperKey Pro Git](https://qainsights.com/superkey-pro-git-stage-commit-jmeter-test-plans/)
 - [Claude Code: The Terminal AI That Actually Gets Your Codebase](https://qainsights.com/claude-code-installation-configuration-tips/)
 - [Never Leave JMeter: Repository Detection &amp; Initialization in SuperKey Pro](https://qainsights.com/superkey-pro-git-repository-detection-initialization-jmeter/)
 - [Git Inside JMeter? Introducing SuperKey Pro’s Built-in Git Integration](https://qainsights.com/superkey-pro-git-integration-jmeter/)
 - [How to Create a Custom JMeter Function for Fake Data Generation](https://qainsights.com/how-to-create-a-custom-jmeter-function-for-fake-data-generation/)
-- [Why I Built PerfAtlas: A Modern JMeter Plugin Directory](https://qainsights.com/why-i-built-perfatlas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

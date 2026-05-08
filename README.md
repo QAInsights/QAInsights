@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Quick Getting Started Guide: The AI Workspace Built Into AWS](https://qainsights.com/amazon-quick-getting-started-guide-ai-workspace-aws/)
 - [Beyond the Hype: A Comprehensive Guide to Benchmarking LLMs with AWS Labs’ LLMeter](https://qainsights.com/beyond-the-hype-a-comprehensive-guide-to-benchmarking-llms-with-aws-labs-llmeter/)
 - [How to Upload a JMeter JMX File to Azure Load Testing: A Step-by-Step Guide](https://qainsights.com/how-to-upload-jmeter-jmx-file-to-azure-load-testing/)
 - [Branch Like a Pro: Managing Feature Branches for JMeter Test Plans](https://qainsights.com/superkey-pro-git-branch-management-jmeter/)
 - [Stage, Commit, Repeat: Managing JMX Changes with SuperKey Pro Git](https://qainsights.com/superkey-pro-git-stage-commit-jmeter-test-plans/)
-- [Claude Code: The Terminal AI That Actually Gets Your Codebase](https://qainsights.com/claude-code-installation-configuration-tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

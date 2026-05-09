@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Embed Markdown Documentation Inside Your JMeter Test Plan Using README Sampler](https://qainsights.com/embed-markdown-documentation-jmeter-test-plan-readme-sampler/)
 - [Amazon Quick Getting Started Guide: The AI Workspace Built Into AWS](https://qainsights.com/amazon-quick-getting-started-guide-ai-workspace-aws/)
 - [Beyond the Hype: A Comprehensive Guide to Benchmarking LLMs with AWS Labs’ LLMeter](https://qainsights.com/beyond-the-hype-a-comprehensive-guide-to-benchmarking-llms-with-aws-labs-llmeter/)
 - [How to Upload a JMeter JMX File to Azure Load Testing: A Step-by-Step Guide](https://qainsights.com/how-to-upload-jmeter-jmx-file-to-azure-load-testing/)
 - [Branch Like a Pro: Managing Feature Branches for JMeter Test Plans](https://qainsights.com/superkey-pro-git-branch-management-jmeter/)
-- [Stage, Commit, Repeat: Managing JMX Changes with SuperKey Pro Git](https://qainsights.com/superkey-pro-git-stage-commit-jmeter-test-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

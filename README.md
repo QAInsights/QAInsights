@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [99% of My LLM Requests Failed... and My Dashboard Stayed GREEN! 🟢❌ - Nvidia AiPerf](https://www.youtube.com/watch?v=5t7Gz_F5pMA)
 - [LLMeter - LLM Speed Test](https://www.youtube.com/watch?v=hBM44GNjURA)
 - [IBM Bob Hackathon - Code Provenance](https://www.youtube.com/watch?v=YSvJ1j23_F8)
 - [JMeter Plugin Development - AI Config Element and Performance Improvements](https://www.youtube.com/watch?v=jvyPs-4WAoc)
 - [JMeter Plugin Development - Ollama AI Judge Assertion](https://www.youtube.com/watch?v=F0iv0YpTWf0)
-- [JMeter Plugin Development - Ollama Stream Sampler &amp; TTFT](https://www.youtube.com/watch?v=dkokqsu5sQs)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

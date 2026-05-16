@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Distributed JMeter Load Tests on Kubernetes with Plugins: A Complete 2026 Setup](https://qainsights.com/running-distributed-jmeter-load-tests-on-kubernetes-with-plugins-a-complete-2026-setup/)
 - [Push, Pull &amp; Sync: Remote Git Operations from Inside JMeter](https://qainsights.com/push-pull-sync-remote-git-operations-from-inside-jmeter/)
 - [99% of Requests Failed and My Dashboard Showed Green](https://qainsights.com/99-of-requests-failed-and-my-dashboard-showed-green/)
 - [How to Embed Markdown Documentation Inside Your JMeter Test Plan Using README Config Element](https://qainsights.com/embed-markdown-documentation-jmeter-test-plan-readme-sampler/)
 - [Amazon Quick Getting Started Guide: The AI Workspace Built Into AWS](https://qainsights.com/amazon-quick-getting-started-guide-ai-workspace-aws/)
-- [Beyond the Hype: A Comprehensive Guide to Benchmarking LLMs with AWS Labs’ LLMeter](https://qainsights.com/beyond-the-hype-a-comprehensive-guide-to-benchmarking-llms-with-aws-labs-llmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

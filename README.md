@@ -59,11 +59,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [README Config Element - JMeter Plugin](https://www.youtube.com/watch?v=jcm8p4ZnnM8)
 - [Dashboard Lied: 99% of AI Requests Actually Failed](https://www.youtube.com/shorts/QfTFO1YJLS8)
 - [99% of My LLM Requests Failed... and My Dashboard Stayed GREEN! 🟢❌ - Nvidia AiPerf](https://www.youtube.com/watch?v=5t7Gz_F5pMA)
 - [LLMeter - LLM Speed Test](https://www.youtube.com/watch?v=hBM44GNjURA)
 - [IBM Bob Hackathon - Code Provenance](https://www.youtube.com/watch?v=YSvJ1j23_F8)
-- [JMeter Plugin Development - AI Config Element and Performance Improvements](https://www.youtube.com/watch?v=jvyPs-4WAoc)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

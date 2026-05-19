@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oops, That Didn’t Work: Undoing Changes with SuperKey Pro Git](https://qainsights.com/superkey-pro-git-undo-reset-restore-jmeter/)
 - [Throughput vs Goodput: The Performance Metric You Are Probably Ignoring in LLM Testing](https://qainsights.com/throughput-vs-goodput-the-performance-metric-you-are-probably-ignoring-in-llm-testing/)
 - [Running Distributed JMeter Load Tests on Kubernetes with Plugins: A Complete 2026 Setup](https://qainsights.com/running-distributed-jmeter-load-tests-on-kubernetes-with-plugins-a-complete-2026-setup/)
 - [Push, Pull &amp; Sync: Remote Git Operations from Inside JMeter](https://qainsights.com/push-pull-sync-remote-git-operations-from-inside-jmeter/)
 - [99% of Requests Failed and My Dashboard Showed Green](https://qainsights.com/99-of-requests-failed-and-my-dashboard-showed-green/)
-- [How to Embed Markdown Documentation Inside Your JMeter Test Plan Using README Config Element](https://qainsights.com/embed-markdown-documentation-jmeter-test-plan-readme-sampler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

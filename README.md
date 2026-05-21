@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top AI Tools for Performance Engineers in 2026](https://qainsights.com/top-ai-tools-for-performance-engineers-in-2026/)
 - [What’s new in k6 2.0.0?](https://qainsights.com/whats-new-in-k6-2-0-0/)
 - [Oops, That Didn’t Work: Undoing Changes with SuperKey Pro Git](https://qainsights.com/superkey-pro-git-undo-reset-restore-jmeter/)
 - [Throughput vs Goodput: The Performance Metric You Are Probably Ignoring in LLM Testing](https://qainsights.com/throughput-vs-goodput-the-performance-metric-you-are-probably-ignoring-in-llm-testing/)
 - [Running Distributed JMeter Load Tests on Kubernetes with Plugins: A Complete 2026 Setup](https://qainsights.com/running-distributed-jmeter-load-tests-on-kubernetes-with-plugins-a-complete-2026-setup/)
-- [Push, Pull &amp; Sync: Remote Git Operations from Inside JMeter](https://qainsights.com/push-pull-sync-remote-git-operations-from-inside-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

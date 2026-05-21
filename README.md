@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add AI Features to Your WordPress Blog Using the WordPress 7.0 AI Client](https://qainsights.com/how-to-add-ai-features-to-your-wordpress-blog-using-the-wordpress-7-0-ai-client/)
 - [Top AI Tools for Performance Engineers in 2026](https://qainsights.com/top-ai-tools-for-performance-engineers-in-2026/)
 - [What’s new in k6 2.0.0?](https://qainsights.com/whats-new-in-k6-2-0-0/)
 - [Oops, That Didn’t Work: Undoing Changes with SuperKey Pro Git](https://qainsights.com/superkey-pro-git-undo-reset-restore-jmeter/)
 - [Throughput vs Goodput: The Performance Metric You Are Probably Ignoring in LLM Testing](https://qainsights.com/throughput-vs-goodput-the-performance-metric-you-are-probably-ignoring-in-llm-testing/)
-- [Running Distributed JMeter Load Tests on Kubernetes with Plugins: A Complete 2026 Setup](https://qainsights.com/running-distributed-jmeter-load-tests-on-kubernetes-with-plugins-a-complete-2026-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

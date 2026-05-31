@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From printTriangularNumber to Duff’s Device: Mastering Java Switch Statements Old and New](https://qainsights.com/from-printtriangularnumber-to-duffs-device-mastering-java-switch-statements-old-and-new/)
 - [Java Enums Explained: From Basics to Best Practices](https://qainsights.com/java-enums-explained-from-basics-to-best-practices/)
 - [Why You Should Use Gaussian Timer in JMeter, k6, and Locust](https://qainsights.com/why-you-should-use-gaussian-timer-in-jmeter-k6-and-locust/)
 - [A Pragmatic AI Framework for Performance Testing: Moving Beyond the Hype](https://qainsights.com/a-pragmatic-ai-framework-for-performance-testing-moving-beyond-the-hype/)
 - [From Varargs to Cleaner Java Code: A Small Example of How AI Helps Engineers Learn Faster](https://qainsights.com/from-varargs-to-cleaner-java-code-a-small-example-of-how-ai-helps-engineers-learn-faster/)
-- [The AI-Augmented Engineer: Why Every Performance Tester Needs an AI Workflow in 2026](https://qainsights.com/the-ai-augmented-engineer-why-every-performance-tester-needs-an-ai-workflow-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

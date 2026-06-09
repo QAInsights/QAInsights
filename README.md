@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supervised Vibe Coding: A Manifesto](https://qainsights.com/supervised-vibe-coding-a-manifesto/)
 - [How to Measure Time To First Token &lpar;TTFT&rpar; in AI Systems](https://qainsights.com/how-to-measure-time-to-first-token-ttft-in-ai-systems/)
 - [Introducing achu: The Open Source Screenshot Beautifier for Developers and Testers](https://qainsights.com/introducing-achu-the-open-source-screenshot-beautifier-for-developers-and-testers/)
 - [From printTriangularNumber to Duff’s Device: Mastering Java Switch Statements Old and New](https://qainsights.com/from-printtriangularnumber-to-duffs-device-mastering-java-switch-statements-old-and-new/)
 - [Java Enums Explained: From Basics to Best Practices](https://qainsights.com/java-enums-explained-from-basics-to-best-practices/)
-- [Why You Should Use Gaussian Timer in JMeter, k6, and Locust](https://qainsights.com/why-you-should-use-gaussian-timer-in-jmeter-k6-and-locust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

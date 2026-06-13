@@ -48,11 +48,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn Your AI Assistant into a Senior Performance Engineer: Introducing perf-skills](https://qainsights.com/turn-your-ai-assistant-into-a-senior-performance-engineer-introducing-perf-skills/)
 - [Supervised Vibe Coding: A Manifesto](https://qainsights.com/supervised-vibe-coding-a-manifesto/)
 - [How to Measure Time To First Token &lpar;TTFT&rpar; in AI Systems](https://qainsights.com/how-to-measure-time-to-first-token-ttft-in-ai-systems/)
 - [Introducing achu: The Open Source Screenshot Beautifier for Developers and Testers](https://qainsights.com/introducing-achu-the-open-source-screenshot-beautifier-for-developers-and-testers/)
 - [From printTriangularNumber to Duff’s Device: Mastering Java Switch Statements Old and New](https://qainsights.com/from-printtriangularnumber-to-duffs-device-mastering-java-switch-statements-old-and-new/)
-- [Java Enums Explained: From Basics to Best Practices](https://qainsights.com/java-enums-explained-from-basics-to-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

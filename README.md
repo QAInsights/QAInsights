@@ -49,11 +49,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Qwen Code Slash Commands to Build Achu App](https://qainsights.com/how-i-use-qwen-code-slash-commands-to-build-achu-app/)
 - [Turn Your AI Assistant into a Senior Performance Engineer: Introducing perf-skills](https://qainsights.com/turn-your-ai-assistant-into-a-senior-performance-engineer-introducing-perf-skills/)
 - [Supervised Vibe Coding: A Manifesto](https://qainsights.com/supervised-vibe-coding-a-manifesto/)
 - [How to Measure Time To First Token &lpar;TTFT&rpar; in AI Systems](https://qainsights.com/how-to-measure-time-to-first-token-ttft-in-ai-systems/)
 - [Introducing achu: The Open Source Screenshot Beautifier for Developers and Testers](https://qainsights.com/introducing-achu-the-open-source-screenshot-beautifier-for-developers-and-testers/)
-- [From printTriangularNumber to Duff’s Device: Mastering Java Switch Statements Old and New](https://qainsights.com/from-printtriangularnumber-to-duffs-device-mastering-java-switch-statements-old-and-new/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

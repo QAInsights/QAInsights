@@ -49,11 +49,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JMeter vs k6 vs Locust in 2026: Which Load Testing Tool Should You Pick?](https://qainsights.com/jmeter-vs-k6-vs-locust-in-2026-which-load-testing-tool-should-you-pick/)
 - [I Built a Fast.com for LLMs: Introducing iamspeed.dev](https://qainsights.com/i-built-a-fast-com-for-llms-introducing-iamspeed-dev/)
 - [How I Use Qwen Code Slash Commands to Build Achu App](https://qainsights.com/how-i-use-qwen-code-slash-commands-to-build-achu-app/)
 - [Turn Your AI Assistant into a Senior Performance Engineer: Introducing perf-skills](https://qainsights.com/turn-your-ai-assistant-into-a-senior-performance-engineer-introducing-perf-skills/)
 - [Supervised Vibe Coding: A Manifesto](https://qainsights.com/supervised-vibe-coding-a-manifesto/)
-- [How to Measure Time To First Token &lpar;TTFT&rpar; in AI Systems](https://qainsights.com/how-to-measure-time-to-first-token-ttft-in-ai-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

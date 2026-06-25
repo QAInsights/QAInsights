@@ -49,11 +49,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3 vs DeepSeek R1: Which Open-Source Reasoning Model Should You Use in 2026?](https://qainsights.com/qwen3-vs-deepseek-r1-which-open-source-reasoning-model/)
 - [Codex CLI vs Claude Code: A Deep-Dive Command Comparison](https://qainsights.com/codex-cli-vs-claude-code-commands-comparison/)
 - [LoadRunner vs NeoLoad in 2026: The Enterprise Performance Testing Showdown](https://qainsights.com/loadrunner-vs-neoload-in-2026-the-enterprise-performance/)
 - [Toy Story: The Open-Source Ecosystem](https://qainsights.com/toy-story-the-open-source-ecosystem/)
 - [JMeter vs k6 vs Locust in 2026: Which Load Testing Tool Should You Pick?](https://qainsights.com/jmeter-vs-k6-vs-locust-in-2026-which-load-testing-tool-should-you-pick/)
-- [I Built a Fast.com for LLMs: Introducing iamspeed.dev](https://qainsights.com/i-built-a-fast-com-for-llms-introducing-iamspeed-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

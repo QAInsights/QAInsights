@@ -49,11 +49,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering for Performance Engineers: Chain-of-Thought, Prompt Chaining, and Iterative Refinement](https://qainsights.com/prompt-engineering-for-performance-engineers-chain-of-thought-prompt-chaining-and-iterative-refinement/)
 - [Getting Started with Java Module System &lpar;JPMS&rpar; for OCP Java 17 Exam](https://qainsights.com/getting-started-with-java-module-system-jpms-for-ocp-java-17-exam/)
 - [Qwen3 vs DeepSeek R1: Which Open-Source Reasoning Model Should You Use in 2026?](https://qainsights.com/qwen3-vs-deepseek-r1-which-open-source-reasoning-model/)
 - [Codex CLI vs Claude Code: A Deep-Dive Command Comparison](https://qainsights.com/codex-cli-vs-claude-code-commands-comparison/)
 - [LoadRunner vs NeoLoad in 2026: The Enterprise Performance Testing Showdown](https://qainsights.com/loadrunner-vs-neoload-in-2026-the-enterprise-performance/)
-- [Toy Story: The Open-Source Ecosystem](https://qainsights.com/toy-story-the-open-source-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

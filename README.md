@@ -49,11 +49,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Which LLM API is the Fastest? iamspeed.dev Now Has Race Mode, 10+ Providers, and a Community Leaderboard](https://qainsights.com/which-llm-api-is-the-fastest-iamspeed-dev-now-has-race-mode-10-providers-and-a-community-leaderboard/)
 - [Devin CLI Tutorial: Essential Commands, Models, and My Experience Building iamspeed.dev](https://qainsights.com/devin-cli-tutorial-essential-commands-models-and-my-experience-building-iamspeed-dev/)
 - [Prompt Engineering for Performance Engineers: Chain-of-Thought, Prompt Chaining, and Iterative Refinement](https://qainsights.com/prompt-engineering-for-performance-engineers-chain-of-thought-prompt-chaining-and-iterative-refinement/)
 - [Getting Started with Java Module System &lpar;JPMS&rpar; for OCP Java 17 Exam](https://qainsights.com/getting-started-with-java-module-system-jpms-for-ocp-java-17-exam/)
 - [Qwen3 vs DeepSeek R1: Which Open-Source Reasoning Model Should You Use in 2026?](https://qainsights.com/qwen3-vs-deepseek-r1-which-open-source-reasoning-model/)
-- [Codex CLI vs Claude Code: A Deep-Dive Command Comparison](https://qainsights.com/codex-cli-vs-claude-code-commands-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

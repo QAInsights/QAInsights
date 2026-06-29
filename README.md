@@ -60,11 +60,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Show iamspeed.dev - fast.com style but for LLMs](https://www.youtube.com/watch?v=R1mWR0khPd0)
 - [AI in Performance Engineering and Testing](https://www.youtube.com/watch?v=ngftGaSIP4A)
 - [README Config Element - JMeter Plugin](https://www.youtube.com/watch?v=jcm8p4ZnnM8)
 - [Dashboard Lied: 99% of AI Requests Actually Failed](https://www.youtube.com/shorts/QfTFO1YJLS8)
 - [99% of My LLM Requests Failed... and My Dashboard Stayed GREEN! 🟢❌ - Nvidia AiPerf](https://www.youtube.com/watch?v=5t7Gz_F5pMA)
-- [LLMeter - LLM Speed Test](https://www.youtube.com/watch?v=hBM44GNjURA)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

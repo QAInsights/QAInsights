@@ -19,6 +19,8 @@
 🌿[JMeter.AI](https://jmeter.ai)  
 🌿[Kan - Eye blink tracker](https://github.com/QAInsights/kan)  
 🌿[PerfAction](https://github.com/QAInsights/PerfAction)  
+🌿[Modern JMeter Docs](https://docs.jmeter.ai)  
+🌿[Modern JMeter Plugins Directory](https://plugins.jmeter.ai)  
 🌿[Clip It!](https://chromewebstore.google.com/detail/clip-it/dmacanhpegjjgmicfbinaafcnjaigecf)    
 🌿[Confetti Celebrations](https://chromewebstore.google.com/detail/confetti-celebrations/jlnaaichmlfhooionenmhdnimhdmoijb)  
 🌿[MuleSoft Community VS Code Theme](https://github.com/ProstDev/mulesoft-community-theme)  

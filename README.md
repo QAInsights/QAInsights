@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Things I Wish I Knew Before Running Qwen Code CLI in a CI Pipeline](https://qainsights.com/five-things-i-wish-i-knew-before-running-qwen-code-cli-in-a-ci-pipeline/)
 - [HTTP QUERY Method Explained: Testing RFC 10008 with Node.js, curl, k6, and JMeter](https://qainsights.com/http-query-method-explained-testing-rfc-10008-with-node-js-curl-k6-and-jmeter/)
 - [docs.jmeter.ai: A Modern Documentation Site for Apache JMeter](https://qainsights.com/docs-jmeter-ai-a-modern-documentation-site-for-apache-jmeter/)
 - [Performance Testing RAG Applications: Complete Engineering Guide](https://qainsights.com/performance-testing-rag-applications-complete-engineering-guide/)
 - [Which LLM API is the Fastest? iamspeed.dev Now Has Race Mode, 10+ Providers, and a Community Leaderboard](https://qainsights.com/which-llm-api-is-the-fastest-iamspeed-dev-now-has-race-mode-10-providers-and-a-community-leaderboard/)
-- [Devin CLI Tutorial: Essential Commands, Models, and My Experience Building iamspeed.dev](https://qainsights.com/devin-cli-tutorial-essential-commands-models-and-my-experience-building-iamspeed-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

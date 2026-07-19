@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Chose AWS Bedrock API Keys Over IAM Roles for a Commercial AI Agent](https://qainsights.com/why-i-chose-aws-bedrock-api-keys-over-iam-roles-for-a-commercial-ai-agent/)
 - [$20/Month: The Price Ceiling Every AI Company Copied](https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/)
 - [Load Testing a REST API with Distributed Load Testing on AWS: A JMeter Tutorial](https://qainsights.com/load-testing-a-rest-api-with-distributed-load-testing-on-aws-a-jmeter-tutorial/)
 - [GPT-5.6 Sol, Terra, and Luna: A Real-World Benchmark for Developers](https://qainsights.com/gpt-5-6-sol-terra-and-luna-a-real-world-benchmark-for-developers/)
 - [Five Things I Wish I Knew Before Running Qwen Code CLI in a CI Pipeline](https://qainsights.com/five-things-i-wish-i-knew-before-running-qwen-code-cli-in-a-ci-pipeline/)
-- [HTTP QUERY Method Explained: Testing RFC 10008 with Node.js, curl, k6, and JMeter](https://qainsights.com/http-query-method-explained-testing-rfc-10008-with-node-js-curl-k6-and-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mixture of Experts &lpar;MoE&rpar; Explained: How It Works with Simple Examples](https://qainsights.com/mixture-of-experts-moe-explained-how-it-works-with-simple-examples/)
 - [Qwen 3.8’s Hidden Cost Problem: Total Parameters vs Active Parameters Explained](https://qainsights.com/qwen-3-8s-hidden-cost-problem-total-parameters-vs-active-parameters-explained/)
 - [How Does an LLM Request and Response Cycle Work? A Full Walkthrough](https://qainsights.com/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough/)
 - [Weekend Agent Challenge: Leitner Loop](https://qainsights.com/weekend-agent-challenge-leitner-loop/)
 - [Why I Chose AWS Bedrock API Keys Over IAM Roles for a Commercial AI Agent](https://qainsights.com/why-i-chose-aws-bedrock-api-keys-over-iam-roles-for-a-commercial-ai-agent/)
-- [$20/Month: The Price Ceiling Every AI Company Copied](https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

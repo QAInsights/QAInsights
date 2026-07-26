@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Firefox 153 QWAC Certificate Verification: A New Line in Your Padlock Icon](https://qainsights.com/firefox-153-qwac-certificate-verification-a-new-line-in-your-padlock-icon/)
 - [How to Earn AWS Builder Center Badges: A Legit 10-Minute Daily Hack](https://qainsights.com/how-to-earn-aws-builder-center-badges-a-legit-10-minute-daily-hack/)
 - [Mixture of Experts &lpar;MoE&rpar; Explained: How It Works with Simple Examples](https://qainsights.com/mixture-of-experts-moe-explained-how-it-works-with-simple-examples/)
 - [Qwen 3.8’s Hidden Cost Problem: Total Parameters vs Active Parameters Explained](https://qainsights.com/qwen-3-8s-hidden-cost-problem-total-parameters-vs-active-parameters-explained/)
 - [How Does an LLM Request and Response Cycle Work? A Full Walkthrough](https://qainsights.com/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough/)
-- [Weekend Agent Challenge: Leitner Loop](https://qainsights.com/weekend-agent-challenge-leitner-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

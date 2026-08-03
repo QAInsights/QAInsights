@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Feather Wand vs Codex vs Claude Code for JMeter: An Honest Comparison](https://qainsights.com/feather-wand-vs-codex-vs-claude-code-for-jmeter-an-honest-comparison/)
 - [Beyond Chatbots: Talking to Devin Directly with the Agent Client Protocol &lpar;ACP&rpar;](https://qainsights.com/beyond-chatbots-talking-to-devin-directly-with-the-agent-client-protocol-acp/)
 - [Inside Devin CLI’s ACP Integration, Plugin System, and Cloud DRS](https://qainsights.com/inside-devin-clis-acp-integration-plugin-system-and-cloud-drs/)
 - [Qwen Code vs Claude Code vs Antigravity CLI: A Spring Boot Developer’s Take](https://qainsights.com/qwen-code-vs-claude-code-vs-antigravity-cli-a-spring-boot-developers-take/)
 - [Firefox 153 QWAC Certificate Verification: A New Line in Your Padlock Icon](https://qainsights.com/firefox-153-qwac-certificate-verification-a-new-line-in-your-padlock-icon/)
-- [How to Earn AWS Builder Center Badges: A Legit 10-Minute Daily Hack](https://qainsights.com/how-to-earn-aws-builder-center-badges-a-legit-10-minute-daily-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

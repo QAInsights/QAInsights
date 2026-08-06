@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Kiro Crew](https://qainsights.com/getting-started-with-kiro-crew/)
+- [Getting Started with Muse Code: CLI Commands, Syntax and Purpose](https://qainsights.com/getting-started-with-muse-code-cli-commands-syntax-and-purpose/)
 - [Stop Your AI Coding CLI From Wasting Tokens on “Hi” and “Thanks”](https://qainsights.com/stop-your-ai-coding-cli-from-wasting-tokens-on-hi-and-thanks/)
 - [Feather Wand vs Codex vs Claude Code for JMeter: An Honest Comparison](https://qainsights.com/feather-wand-vs-codex-vs-claude-code-for-jmeter-an-honest-comparison/)
 - [Beyond Chatbots: Talking to Devin Directly with the Agent Client Protocol &lpar;ACP&rpar;](https://qainsights.com/beyond-chatbots-talking-to-devin-directly-with-the-agent-client-protocol-acp/)
-- [Inside Devin CLI’s ACP Integration, Plugin System, and Cloud DRS](https://qainsights.com/inside-devin-clis-acp-integration-plugin-system-and-cloud-drs/)
-- [Qwen Code vs Claude Code vs Antigravity CLI: A Spring Boot Developer’s Take](https://qainsights.com/qwen-code-vs-claude-code-vs-antigravity-cli-a-spring-boot-developers-take/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

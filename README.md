@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an MCP Server for JMeter Docs, Here’s How to Connect Your AI Agent to It](https://qainsights.com/i-built-an-mcp-server-for-jmeter-docs-heres-how-to-connect-your-ai-agent-to-it/)
 - [Getting Started with Kiro Crew](https://qainsights.com/getting-started-with-kiro-crew/)
 - [Getting Started with Muse Code: CLI Commands, Syntax and Purpose](https://qainsights.com/getting-started-with-muse-code-cli-commands-syntax-and-purpose/)
 - [Stop Your AI Coding CLI From Wasting Tokens on “Hi” and “Thanks”](https://qainsights.com/stop-your-ai-coding-cli-from-wasting-tokens-on-hi-and-thanks/)
 - [Feather Wand vs Codex vs Claude Code for JMeter: An Honest Comparison](https://qainsights.com/feather-wand-vs-codex-vs-claude-code-for-jmeter-an-honest-comparison/)
-- [Beyond Chatbots: Talking to Devin Directly with the Agent Client Protocol &lpar;ACP&rpar;](https://qainsights.com/beyond-chatbots-talking-to-devin-directly-with-the-agent-client-protocol-acp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -62,11 +62,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Prompticon - Chrome Extension](https://www.youtube.com/watch?v=uNuYvv3GGKE)
 - [Mireye Build Challenge - LeadSentry](https://www.youtube.com/watch?v=0-csj5F_A8w)
 - [Show iamspeed.dev - fast.com style but for LLMs](https://www.youtube.com/watch?v=R1mWR0khPd0)
 - [AI in Performance Engineering and Testing](https://www.youtube.com/watch?v=ngftGaSIP4A)
 - [README Config Element - JMeter Plugin](https://www.youtube.com/watch?v=jcm8p4ZnnM8)
-- [Dashboard Lied: 99% of AI Requests Actually Failed](https://www.youtube.com/shorts/QfTFO1YJLS8)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your First Custom Skill for Qwen Code](https://qainsights.com/build-your-first-custom-skill-for-qwen-code/)
 - [Weekend Creative Agent Challenge: LeadSentry](https://qainsights.com/weekend-creative-agent-challenge-leadsentry/)
 - [Top 10 Qwen Code CLI Commands Every Developer Should Know](https://qainsights.com/top-10-qwen-code-cli-commands-every-developer-should-know/)
 - [AI Terms Explained With Simple Examples Using a Dosa Analogy](https://qainsights.com/ai-terms-explained-with-simple-examples-using-a-dosa-analogy/)
 - [I Built an MCP Server for JMeter Docs, Here’s How to Connect Your AI Agent to It](https://qainsights.com/i-built-an-mcp-server-for-jmeter-docs-heres-how-to-connect-your-ai-agent-to-it/)
-- [Getting Started with Kiro Crew](https://qainsights.com/getting-started-with-kiro-crew/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

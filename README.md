@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Protected: How I Built an AI Agent to Vet New Tool Submissions on ai.dosa.dev](https://qainsights.com/how-i-built-an-ai-agent-to-vet-new-tool-submissions-on-ai-dosa-dev/)
 - [Fixing Choppy Mouse Movement in Omarchy on a Hybrid AMD/NVIDIA Laptop](https://qainsights.com/fixing-choppy-mouse-movement-in-omarchy-on-a-hybrid-amd-nvidia-laptop/)
 - [Devin CLI: A Practical Getting Started Guide for Developers](https://qainsights.com/devin-cli-a-practical-getting-started-guide-for-developers/)
 - [Build Your First Custom Skill for Qwen Code](https://qainsights.com/build-your-first-custom-skill-for-qwen-code/)
 - [Weekend Creative Agent Challenge: LeadSentry](https://qainsights.com/weekend-creative-agent-challenge-leadsentry/)
-- [Top 10 Qwen Code CLI Commands Every Developer Should Know](https://qainsights.com/top-10-qwen-code-cli-commands-every-developer-should-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

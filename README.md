@@ -51,11 +51,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Used Devin Code Scans to Audit SEO, AEO, and GEO on ai.dosa.dev](https://qainsights.com/i-used-devin-code-scans-to-audit-seo-aeo-and-geo-on-ai-dosa-dev/)
 - [Building a Spring Boot REST API with Qwen Code: From Requirements to Tests](https://qainsights.com/building-a-spring-boot-rest-api-with-qwen-code-from-requirements-to-tests/)
 - [How to Use QWEN.md to Give Qwen Code Better Project Context](https://qainsights.com/how-to-use-qwen-md-to-give-qwen-code-better-project-context/)
 - [From 3:00 AM Panic to Confidence: How I Use AI During On-Call Incidents](https://qainsights.com/from-300-am-panic-to-confidence-how-i-use-ai-during-on-call-incidents/)
 - [How I Built an AI Agent to Vet New Tool Submissions on ai.dosa.dev](https://qainsights.com/how-i-built-an-ai-agent-to-vet-new-tool-submissions-on-ai-dosa-dev/)
-- [Fixing Choppy Mouse Movement in Omarchy on a Hybrid AMD/NVIDIA Laptop](https://qainsights.com/fixing-choppy-mouse-movement-in-omarchy-on-a-hybrid-amd-nvidia-laptop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -62,11 +62,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [Getting Started with LoadView: End-to-End Cloud Load Testing Tutorial](https://www.youtube.com/watch?v=s0jYoFP5Ddw)
 - [Quick Links - Kanban style and To-do Chrome Extension](https://www.youtube.com/watch?v=Y6RUJnReCDU)
 - [What&#39;s new in JMeter AI Agent - FeatherWand 3.8.0](https://www.youtube.com/watch?v=XTYTCOoOpHY)
 - [Prompticon - Chrome Extension](https://www.youtube.com/watch?v=uNuYvv3GGKE)
 - [Mireye Build Challenge - LeadSentry](https://www.youtube.com/watch?v=0-csj5F_A8w)
-- [Show iamspeed.dev - fast.com style but for LLMs](https://www.youtube.com/watch?v=R1mWR0khPd0)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com

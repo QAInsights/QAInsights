@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Pull Request Reviews with Qwen Code and GitHub Actions](https://qainsights.com/automate-pull-request-reviews-with-qwen-code-and-github-actions/)
 - [Guess the Speed: Building a Family Internet Speed Guessing Game](https://qainsights.com/family-internet-speed-guessing-game/)
 - [Connect Qwen Code to External Tools Using MCP](https://qainsights.com/connect-qwen-code-to-external-tools-using-mcp/)
 - [I Used Devin Code Scans to Audit SEO, AEO, and GEO on ai.dosa.dev](https://qainsights.com/i-used-devin-code-scans-to-audit-seo-aeo-and-geo-on-ai-dosa-dev/)
 - [Building a Spring Boot REST API with Qwen Code: From Requirements to Tests](https://qainsights.com/building-a-spring-boot-rest-api-with-qwen-code-from-requirements-to-tests/)
-- [How to Use QWEN.md to Give Qwen Code Better Project Context](https://qainsights.com/how-to-use-qwen-md-to-give-qwen-code-better-project-context/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

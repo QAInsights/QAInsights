@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Qwen Code with Local Models Using Ollama](https://qainsights.com/run-qwen-code-with-local-models-using-ollama/)
+- [How to Build Your First Devin Skill Using SKILL.md](https://qainsights.com/how-to-build-your-first-devin-skill-using-skill-md/)
 - [Devin CLI vs Devin Cloud: Which One Should You Use?](https://qainsights.com/devin-cli-vs-devin-cloud-which-one-should-you-use/)
-- [Protected: Real Browser Load Testing: A Hands-On LoadView Tutorial](https://qainsights.com/real-browser-load-testing-a-hands-on-loadview-tutorial/)
+- [Real Browser Load Testing: A Hands-On LoadView Tutorial](https://qainsights.com/real-browser-load-testing-a-hands-on-loadview-tutorial/)
 - [Automate Pull Request Reviews with Qwen Code and GitHub Actions](https://qainsights.com/automate-pull-request-reviews-with-qwen-code-and-github-actions/)
-- [Guess the Speed: Building a Family Internet Speed Guessing Game](https://qainsights.com/family-internet-speed-guessing-game/)
-- [Connect Qwen Code to External Tools Using MCP](https://qainsights.com/connect-qwen-code-to-external-tools-using-mcp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

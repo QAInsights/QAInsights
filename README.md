@@ -52,11 +52,11 @@
 
 # ✒️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Feather Wand 4.0: Make it pass, Workload Designer and More for JMeter](https://qainsights.com/feather-wand-4-0-make-it-pass-workload-designer-and-more-for-jmeter/)
 - [Run Qwen Code with Local Models Using Ollama](https://qainsights.com/run-qwen-code-with-local-models-using-ollama/)
 - [How to Build Your First Devin Skill Using SKILL.md](https://qainsights.com/how-to-build-your-first-devin-skill-using-skill-md/)
 - [Devin CLI vs Devin Cloud: Which One Should You Use?](https://qainsights.com/devin-cli-vs-devin-cloud-which-one-should-you-use/)
 - [Real Browser Load Testing: A Hands-On LoadView Tutorial](https://qainsights.com/real-browser-load-testing-a-hands-on-loadview-tutorial/)
-- [Automate Pull Request Reviews with Qwen Code and GitHub Actions](https://qainsights.com/automate-pull-request-reviews-with-qwen-code-and-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

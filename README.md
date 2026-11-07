@@ -63,11 +63,11 @@
 
 # 📺 YouTube
 <!-- YOUTUBE:START -->
+- [How did I develop Reqfleet with AI? A Conversation with Kejun Huang](https://www.youtube.com/watch?v=hL57oHpXiFc)
 - [Gift Cabinet](https://www.youtube.com/watch?v=X34TjHXJ1vg)
 - [Getting Started with LoadView: End-to-End Cloud Load Testing Tutorial](https://www.youtube.com/watch?v=s0jYoFP5Ddw)
 - [Quick Links - Kanban style and To-do Chrome Extension](https://www.youtube.com/watch?v=Y6RUJnReCDU)
 - [What&#39;s new in JMeter AI Agent - FeatherWand 3.8.0](https://www.youtube.com/watch?v=XTYTCOoOpHY)
-- [Prompticon - Chrome Extension](https://www.youtube.com/watch?v=uNuYvv3GGKE)
 <!-- YOUTUBE:END -->
 
 [website]: https://qainsights.com
